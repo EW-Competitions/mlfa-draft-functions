@@ -1,0 +1,4837 @@
+{
+  "players": [
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mariners",
+      "id": "sa3004197",
+      "name": "Dylan File",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/dylan-file/sa3004197/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Yankees",
+      "id": "sa3014919",
+      "name": "Cole Percival",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/cole-percival/sa3014919/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "White Sox",
+      "id": "22310",
+      "name": "Chris Rodriguez",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/chris-rodriguez/22310/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20323",
+      "name": "Erich Uelmen",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/erich-uelmen/20323/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "18555",
+      "name": "Logan Allen",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/logan-allen/18555/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Diamondbacks",
+      "id": "17169",
+      "name": "José Castillo",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/jose-castillo/17169/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Dodgers",
+      "id": "25178",
+      "name": "Joe Jacques",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/joe-jacques/25178/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Nationals",
+      "id": "21453",
+      "name": "Konnor Pilkington",
+      "position": "P",
+      "team": "ARI",
+      "url": "/players/konnor-pilkington/21453/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Athletics",
+      "id": "sa918343",
+      "name": "Lyle Lin",
+      "position": "C/1B",
+      "team": "ARI",
+      "url": "/players/chia-lin/sa918343/stats?position=C/1B"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "12977",
+      "name": "Michael Pérez",
+      "position": "C",
+      "team": "ARI",
+      "url": "/players/michael-perez/12977/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Diamondbacks",
+      "id": "sa3008282",
+      "name": "Andy Weber",
+      "position": "2B/SS",
+      "team": "ARI",
+      "url": "/players/andy-weber/sa3008282/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Giants",
+      "id": "16417",
+      "name": "Sergio Alcántara",
+      "position": "2B/3B/SS",
+      "team": "ARI",
+      "url": "/players/sergio-alcantara/16417/stats?position=2B/3B/SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa829857",
+      "name": "Bryson Brigman",
+      "position": "2B/SS",
+      "team": "ARI",
+      "url": "/players/bryson-brigman/sa829857/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3004065",
+      "name": "Jancarlos Cintron",
+      "position": "2B/SS",
+      "team": "ARI",
+      "url": "/players/jancarlos-cintron/sa3004065/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Marlins",
+      "id": "14109",
+      "name": "Albert Almora Jr.",
+      "position": "OF",
+      "team": "ARI",
+      "url": "/players/albert-almora-jr/14109/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3005544",
+      "name": "Neyfy Castillo",
+      "position": "OF",
+      "team": "ARI",
+      "url": "/players/neyfy-castillo/sa3005544/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "18063",
+      "name": "Kyle Garlick",
+      "position": "OF",
+      "team": "ARI",
+      "url": "/players/kyle-garlick/18063/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa3007477",
+      "name": "Chase Cohen",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/chase-cohen/sa3007477/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa3002980",
+      "name": "Danis Correa",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/danis-correa/sa3002980/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "19191",
+      "name": "Robert Dugger",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/robert-dugger/19191/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "19766",
+      "name": "Seth Elledge",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/seth-elledge/19766/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa3015008",
+      "name": "Dylan Hall",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/dylan-hall/sa3015008/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa3005187",
+      "name": "Lincoln Henzman",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/garrett-henzman/sa3005187/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "19493",
+      "name": "Zach Jackson",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/zach-jackson/19493/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Marlins",
+      "id": "23301",
+      "name": "Janson Junk",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/janson-junk/23301/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa736656",
+      "name": "Gerson Moreno",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/gerson-moreno/sa736656/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "15290",
+      "name": "Austin Pruitt",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/austin-pruitt/15290/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Rockies",
+      "id": "22690",
+      "name": "Jack O'Loughlin",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/jack-oloughlin/22690/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Athletics",
+      "id": "21018",
+      "name": "Francisco Pérez",
+      "position": "P",
+      "team": "ATH",
+      "url": "/players/francisco-perez/21018/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Athletics",
+      "id": "sa3006525",
+      "name": "Jose Mujica",
+      "position": "C",
+      "team": "ATH",
+      "url": "/players/jose-mujica/sa3006525/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Cubs",
+      "id": "10642",
+      "name": "Carlos Pérez",
+      "position": "C",
+      "team": "ATH",
+      "url": "/players/carlos-perez/10642/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Cardinals",
+      "id": "18848",
+      "name": "Yohel Pozo",
+      "position": "DH",
+      "team": "ATH",
+      "url": "/players/yohel-pozo/18848/stats?position=DH"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Twins",
+      "id": "19292",
+      "name": "Armando Alvarez",
+      "position": "1B/3B",
+      "team": "ATH",
+      "url": "/players/armando-alvarez/19292/stats?position=1B/3B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Athletics",
+      "id": "18027",
+      "name": "Hoy Park",
+      "position": "2B",
+      "team": "ATH",
+      "url": "/players/hoy-park/18027/stats?position=2B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Athletics",
+      "id": "22650",
+      "name": "Jordan Diaz",
+      "position": "2B/3B",
+      "team": "ATH",
+      "url": "/players/jordan-diaz/22650/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Athletics",
+      "id": "sa829268",
+      "name": "Drew Lugbauer",
+      "position": "1B",
+      "team": "ATH",
+      "url": "/players/drew-lugbauer/sa829268/stats?position=1B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Athletics",
+      "id": "sa3007005",
+      "name": "Jeremy Eierman",
+      "position": "SS",
+      "team": "ATH",
+      "url": "/players/jeremy-eierman/sa3007005/stats?position=SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Royals",
+      "id": "23794",
+      "name": "Jordan Groshans",
+      "position": "3B",
+      "team": "ATH",
+      "url": "/players/jordan-groshans/23794/stats?position=3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Athletics",
+      "id": "sa3005925",
+      "name": "Dereck Salom",
+      "position": "3B/SS",
+      "team": "ATH",
+      "url": "/players/dereck-salom/sa3005925/stats?position=3B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Athletics",
+      "id": "sa3005602",
+      "name": "Danny Bautista Jr.",
+      "position": "1B/OF",
+      "team": "ATH",
+      "url": "/players/daniel-bautista/sa3005602/stats?position=1B/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Athletics",
+      "id": "sa3004146",
+      "name": "Jeisson Rosario",
+      "position": "OF",
+      "team": "ATH",
+      "url": "/players/jeisson-rosario/sa3004146/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rockies",
+      "id": "21281",
+      "name": "Tommy Doyle",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/tommy-doyle/21281/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20018",
+      "name": "Parker Dunshee",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/parker-dunshee/20018/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "12910",
+      "name": "Ken Giles",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/ken-giles/12910/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Braves",
+      "id": "sa3005826",
+      "name": "Jorge Juan",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/jorge-juan/sa3005826/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "14420",
+      "name": "Jackson Stephens",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/jackson-stephens/14420/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Yankees",
+      "id": "10058",
+      "name": "Tyler Matzek",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/tyler-matzek/10058/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Braves",
+      "id": "9646",
+      "name": "Brian Moran",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/brian-moran/9646/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Reds",
+      "id": "sa3011395",
+      "name": "Drew Parrish",
+      "position": "P",
+      "team": "ATL",
+      "url": "/players/andrew-parrish/sa3011395/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Angels",
+      "id": "21735",
+      "name": "Sebastián Rivero",
+      "position": "C",
+      "team": "ATL",
+      "url": "/players/sebastian-rivero/21735/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa3015624",
+      "name": "Willmer De La Cruz",
+      "position": "2B/3B/SS",
+      "team": "ATL",
+      "url": "/players/willmer-de-la-cruz/sa3015624/stats?position=2B/3B/SS"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "18289",
+      "name": "Brian Anderson",
+      "position": "3B/OF",
+      "team": "ATL",
+      "url": "/players/brian-anderson/18289/stats?position=3B/OF"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Astros",
+      "id": "19562",
+      "name": "Zack Short",
+      "position": "2B/SS",
+      "team": "ATL",
+      "url": "/players/zack-short/19562/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Yankees",
+      "id": "14196",
+      "name": "Andrew Velazquez",
+      "position": "SS",
+      "team": "ATL",
+      "url": "/players/andrew-velazquez/14196/stats?position=SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Dodgers",
+      "id": "sa3007070",
+      "name": "Justin Dean",
+      "position": "OF",
+      "team": "ATL",
+      "url": "/players/justin-dean/sa3007070/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "24451",
+      "name": "J.P. Martínez",
+      "position": "OF",
+      "team": "ATL",
+      "url": "/players/jp-martinez/24451/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "14387",
+      "name": "Harold Ramírez",
+      "position": "DH/OF",
+      "team": "ATL",
+      "url": "/players/harold-ramirez/14387/stats?position=DH/OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cardinals",
+      "id": "18337",
+      "name": "Nick Anderson",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/nick-anderson/18337/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa3007471",
+      "name": "Nolan Hoffman",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/nolan-hoffman/sa3007471/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "12718",
+      "name": "Adrian Houser",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/adrian-houser/12718/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Athletics",
+      "id": "19315",
+      "name": "Matt Krook",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/matt-krook/19315/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3020183",
+      "name": "Cooper McKeehan",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/cooper-mckeehan/sa3020183/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Phillies",
+      "id": "21093",
+      "name": "Nick Vespi",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/nick-vespi/21093/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Brewers",
+      "id": "20370",
+      "name": "Bruce Zimmermann",
+      "position": "P",
+      "team": "BAL",
+      "url": "/players/bruce-zimmermann/20370/stats?position=P"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "Braves",
+      "id": "15279",
+      "name": "Garrett Cooper",
+      "position": "1B/DH",
+      "team": "BAL",
+      "url": "/players/garrett-cooper/15279/stats?position=1B/DH"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Orioles",
+      "id": "24400",
+      "name": "Terrin Vavra",
+      "position": "2B/OF",
+      "team": "BAL",
+      "url": "/players/terrin-vavra/24400/stats?position=2B/OF"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Angels",
+      "id": "16219",
+      "name": "J.D. Davis",
+      "position": "3B",
+      "team": "BAL",
+      "url": "/players/jd-davis/16219/stats?position=3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Padres",
+      "id": "12092",
+      "name": "Niko Goodrum",
+      "position": "2B/SS",
+      "team": "BAL",
+      "url": "/players/niko-goodrum/12092/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Padres",
+      "id": "16496",
+      "name": "Forrest Wall",
+      "position": "OF",
+      "team": "BAL",
+      "url": "/players/forrest-wall/16496/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "19666",
+      "name": "Jason Alexander",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/jason-alexander/19666/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008580",
+      "name": "Royman Blanco",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/royman-blanco/sa3008580/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa3014453",
+      "name": "Bryce Bonnin",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/bryce-bonnin/sa3014453/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005445",
+      "name": "Felix Cepeda",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/felix-cepeda/sa3005445/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mets",
+      "id": "sa3008022",
+      "name": "Justin Hagenman",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/justin-hagenman/sa3008022/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cubs",
+      "id": "15734",
+      "name": "Brad Keller",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/brad-keller/15734/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Twins",
+      "id": "21859",
+      "name": "Alex Speas",
+      "position": "P",
+      "team": "BOS",
+      "url": "/players/alex-speas/21859/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Red Sox",
+      "id": "21304",
+      "name": "Mark Kolozsvary",
+      "position": "C",
+      "team": "BOS",
+      "url": "/players/mark-kolozsvary/21304/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3007822",
+      "name": "Elih Marrero",
+      "position": "C",
+      "team": "BOS",
+      "url": "/players/elih-marrero/sa3007822/stats?position=C"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "White Sox",
+      "id": "19966",
+      "name": "Bobby Dalbec",
+      "position": "1B",
+      "team": "BOS",
+      "url": "/players/bobby-dalbec/19966/stats?position=1B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "15504",
+      "name": "Jamie Westbrook",
+      "position": "2B",
+      "team": "BOS",
+      "url": "/players/jamie-westbrook/15504/stats?position=2B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "20122",
+      "name": "Mark Contreras",
+      "position": "OF",
+      "team": "BOS",
+      "url": "/players/mark-contreras/20122/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3008590",
+      "name": "Nick Decker",
+      "position": "OF",
+      "team": "BOS",
+      "url": "/players/nicholas-decker/sa3008590/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "21293",
+      "name": "Dalton Guthrie",
+      "position": "OF",
+      "team": "BOS",
+      "url": "/players/dalton-guthrie/21293/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005694",
+      "name": "Luis Devers",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/luis-devers/sa3005694/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3014921",
+      "name": "Jimmy Endersby",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/james-endersby/sa3014921/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3010242",
+      "name": "Manuel Espinoza",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/manuel-espinoza/sa3010242/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008360",
+      "name": "Saul Gonzalez",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/saul-gonzalez/sa3008360/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa741947",
+      "name": "Daniel Missaki",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/daniel-missaki/sa741947/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Padres",
+      "id": "sa3005284",
+      "name": "Eduarniel Nunez",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/eduarniel-nunez/sa3005284/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008067",
+      "name": "Cam Sanders",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/cam-sanders/sa3008067/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa828707",
+      "name": "Trey Supak",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/treyson-supak/sa828707/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa876287",
+      "name": "Riley Thompson",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/benjamin-thompson/sa876287/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007966",
+      "name": "Blake Whitney",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/avery-whitney/sa3007966/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "8337",
+      "name": "Lucas Luetge",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/lucas-luetge/8337/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Astros",
+      "id": "sa3004211",
+      "name": "Blake Weiman",
+      "position": "P",
+      "team": "CHC",
+      "url": "/players/blake-weiman/sa3004211/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Cubs",
+      "id": "sa3008279",
+      "name": "Caleb Knight",
+      "position": "C",
+      "team": "CHC",
+      "url": "/players/caleb-knight/sa3008279/stats?position=C"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Dodgers",
+      "id": "14593",
+      "name": "David Bote",
+      "position": "2B/3B",
+      "team": "CHC",
+      "url": "/players/david-bote/14593/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Cubs",
+      "id": "sa3006900",
+      "name": "Reivaj Garcia",
+      "position": "2B",
+      "team": "CHC",
+      "url": "/players/reivaj-garcia/sa3006900/stats?position=2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3005500",
+      "name": "Fabian Pertuz",
+      "position": "2B/SS",
+      "team": "CHC",
+      "url": "/players/fabian-pertuz/sa3005500/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Phillies",
+      "id": "sa3006888",
+      "name": "Luis Verdugo",
+      "position": "3B",
+      "team": "CHC",
+      "url": "/players/luis-verdugo/sa3006888/stats?position=3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Dodgers",
+      "id": "sa3007975",
+      "name": "Ezequiel Pagan",
+      "position": "OF",
+      "team": "CHC",
+      "url": "/players/ezequiel-pagan/sa3007975/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Padres",
+      "id": "sa3008184",
+      "name": "Cole Roederer",
+      "position": "OF",
+      "team": "CHC",
+      "url": "/players/cole-roederer/sa3008184/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Red Sox",
+      "id": "9952",
+      "name": "Trayce Thompson",
+      "position": "OF",
+      "team": "CHC",
+      "url": "/players/trayce-thompson/9952/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20277",
+      "name": "Cory Abbott",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/cory-abbott/20277/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3021579",
+      "name": "Josimar Cousin",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/josimar-cousin/sa3021579/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa916727",
+      "name": "Johan Dominguez",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/johan-dominguez/sa916727/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "19647",
+      "name": "Matt Foster",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/matt-foster/19647/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Brewers",
+      "id": "20276",
+      "name": "Deivi García",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/deivi-garcia/20276/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008564",
+      "name": "Zachary Hammer",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/zachary-hammer/sa3008564/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "18600",
+      "name": "Travis Lakins Sr.",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/travis-lakins-sr/18600/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa873280",
+      "name": "Aaron McGarity",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/aaron-mcgarity/sa873280/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "24363",
+      "name": "Edgar Navarro",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/edgar-navarro/24363/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Phillies",
+      "id": "21327",
+      "name": "Nicholas Padilla",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/nicholas-padilla/21327/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3015012",
+      "name": "Connor Pellerin",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/connor-pellerin/sa3015012/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006702",
+      "name": "Jose Ramirez",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/jose-ramirez/sa3006702/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "25071",
+      "name": "Lane Ramsey",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/lane-ramsey/25071/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "White Sox",
+      "id": "sa3010567",
+      "name": "Dalton Roach",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/dalton-roach/sa3010567/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3004014",
+      "name": "Max Roberts",
+      "position": "P",
+      "team": "CHW",
+      "url": "/players/max-roberts/sa3004014/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3003225",
+      "name": "Jhoneiker Betancourt",
+      "position": "C/1B",
+      "team": "CHW",
+      "url": "/players/jhoneiker-betancourt/sa3003225/stats?position=C/1B"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "20805",
+      "name": "Carlos Pérez",
+      "position": "C",
+      "team": "CHW",
+      "url": "/players/carlos-perez/20805/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "Dodgers",
+      "id": "17321",
+      "name": "Michael Chavis",
+      "position": "1B/2B",
+      "team": "CHW",
+      "url": "/players/michael-chavis/17321/stats?position=1B/2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "14320",
+      "name": "Wilmer Difo",
+      "position": "2B/SS",
+      "team": "CHW",
+      "url": "/players/wilmer-difo/14320/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "16042",
+      "name": "Mark Payton",
+      "position": "OF",
+      "team": "CHW",
+      "url": "/players/mark-payton/16042/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "23264",
+      "name": "Canaan Smith-Njigba",
+      "position": "OF",
+      "team": "CHW",
+      "url": "/players/canaan-smith-njigba/23264/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "16271",
+      "name": "Alex Blandino",
+      "position": "2B/3B",
+      "team": "CIN",
+      "url": "/players/alex-blandino/16271/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008227",
+      "name": "Michael Byrne",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/michael-byrne/sa3008227/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007852",
+      "name": "Eddy Demurias",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/eddy-demurias/sa3007852/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa918674",
+      "name": "Grant Gavin",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/grant-gavin/sa918674/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa3008046",
+      "name": "Peyton Gray",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/peyton-gray/sa3008046/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "18376",
+      "name": "Connor Overton",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/connor-overton/18376/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007724",
+      "name": "Victor Vargas",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/victor-vargas/sa3007724/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "17792",
+      "name": "Patrick Weigel",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/patrick-weigel/17792/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3004736",
+      "name": "Jacob Heatherly",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/jacob-heatherly/sa3004736/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "17285",
+      "name": "Justus Sheffield",
+      "position": "P",
+      "team": "CIN",
+      "url": "/players/justus-sheffield/17285/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Rangers",
+      "id": "10200",
+      "name": "Tucker Barnhart",
+      "position": "C",
+      "team": "CIN",
+      "url": "/players/tucker-barnhart/10200/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Reds",
+      "id": "18433",
+      "name": "P.J. Higgins",
+      "position": "C/1B",
+      "team": "CIN",
+      "url": "/players/pj-higgins/18433/stats?position=C/1B"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Rays",
+      "id": "sa3005587",
+      "name": "Daniel Vellojin",
+      "position": "C",
+      "team": "CIN",
+      "url": "/players/daniel-vellojin/sa3005587/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Reds",
+      "id": "25138",
+      "name": "Levi Jordan",
+      "position": "OF",
+      "team": "CIN",
+      "url": "/players/levi-jordan/25138/stats?position=OF"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "18032",
+      "name": "Mark Mathias",
+      "position": "2B/OF",
+      "team": "CIN",
+      "url": "/players/mark-mathias/18032/stats?position=2B/OF"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "5751",
+      "name": "Hernán Pérez",
+      "position": "2B/3B/OF",
+      "team": "CIN",
+      "url": "/players/hernan-perez/5751/stats?position=2B/3B/OF"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa3007640",
+      "name": "Nicholas Northcut",
+      "position": "1B/3B",
+      "team": "CIN",
+      "url": "/players/nicholas-northcut/sa3007640/stats?position=1B/3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Reds",
+      "id": "18316",
+      "name": "Edwin Ríos",
+      "position": "1B/3B/DH",
+      "team": "CIN",
+      "url": "/players/edwin-rios/18316/stats?position=1B/3B/DH"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "13369",
+      "name": "Erik González",
+      "position": "3B/SS",
+      "team": "CIN",
+      "url": "/players/erik-gonzalez/13369/stats?position=3B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "22261",
+      "name": "Bubba Thompson",
+      "position": "OF",
+      "team": "CIN",
+      "url": "/players/bubba-thompson/22261/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "White Sox",
+      "id": "20151",
+      "name": "James Karinchak",
+      "position": "P",
+      "team": "CLE",
+      "url": "/players/james-karinchak/20151/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006541",
+      "name": "Jerson Ramirez",
+      "position": "P",
+      "team": "CLE",
+      "url": "/players/jerson-ramirez/sa3006541/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Reds",
+      "id": "sa3008329",
+      "name": "Lenny Torres Jr.",
+      "position": "P",
+      "team": "CLE",
+      "url": "/players/lineras-torres/sa3008329/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006502",
+      "name": "Wardquelin Vasquez",
+      "position": "P",
+      "team": "CLE",
+      "url": "/players/wardquelin-vasquez/sa3006502/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Astros",
+      "id": "24765",
+      "name": "Bryan Lavastida",
+      "position": "C",
+      "team": "CLE",
+      "url": "/players/bryan-lavastida/24765/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Cleveland",
+      "id": "15055",
+      "name": "Dom Nuñez",
+      "position": "C",
+      "team": "CLE",
+      "url": "/players/dom-nunez/15055/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3004883",
+      "name": "Micael Ramirez",
+      "position": "C",
+      "team": "CLE",
+      "url": "/players/micael-ramirez/sa3004883/stats?position=C"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Dodgers",
+      "id": "sa3010018",
+      "name": "Aaron Bracho",
+      "position": "1B/2B",
+      "team": "CLE",
+      "url": "/players/aaron-bracho/sa3010018/stats?position=1B/2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Brewers",
+      "id": "sa3007288",
+      "name": "Raynel Delgado",
+      "position": "2B/3B",
+      "team": "CLE",
+      "url": "/players/raynel-delgado/sa3007288/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3005515",
+      "name": "Alexfri Planez",
+      "position": "OF",
+      "team": "CLE",
+      "url": "/players/alexfri-planez/sa3005515/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "18135",
+      "name": "Chance Adams",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/chance-adams/18135/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rockies",
+      "id": "sa3005889",
+      "name": "Luis Amoroso",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/luis-amoroso/sa3005889/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "25777",
+      "name": "Peyton Battenfield",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/peyton-battenfield/25777/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Red Sox",
+      "id": "25862",
+      "name": "Noah Davis",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/noah-davis/25862/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rockies",
+      "id": "sa3008290",
+      "name": "Brendan Hardy",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/brendan-hardy/sa3008290/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cleveland",
+      "id": "21858",
+      "name": "Riley Pint",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/riley-pint/21858/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rockies",
+      "id": "sa3010243",
+      "name": "Connor Van Scoyoc",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/connor-van-scoyoc/sa3010243/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa874796",
+      "name": "Juan Hillman",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/juan-hillman/sa874796/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Rockies",
+      "id": "sa3005828",
+      "name": "Felix Ramires",
+      "position": "P",
+      "team": "COL",
+      "url": "/players/felix-ramires/sa3005828/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Athletics",
+      "id": "sa3007828",
+      "name": "Willie MacIver",
+      "position": "C",
+      "team": "COL",
+      "url": "/players/william-maciver/sa3007828/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "sa3008029",
+      "name": "Kyle Datres",
+      "position": "3B",
+      "team": "COL",
+      "url": "/players/kyle-datres/sa3008029/stats?position=3B"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "sa3007743",
+      "name": "Grant Lavigne",
+      "position": "1B",
+      "team": "COL",
+      "url": "/players/grant-lavigne/sa3007743/stats?position=1B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa3008181",
+      "name": "Hunter Stovall",
+      "position": "2B/3B",
+      "team": "COL",
+      "url": "/players/hunter-stovall/sa3008181/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "20543",
+      "name": "Elehuris Montero",
+      "position": "1B",
+      "team": "COL",
+      "url": "/players/elehuris-montero/20543/stats?position=1B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Diamondbacks",
+      "id": "21535",
+      "name": "Connor Kaiser",
+      "position": "SS",
+      "team": "COL",
+      "url": "/players/connor-kaiser/21535/stats?position=SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa917065",
+      "name": "Cristopher Navarro",
+      "position": "3B/SS",
+      "team": "COL",
+      "url": "/players/cristopher-navarro/sa917065/stats?position=3B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3006670",
+      "name": "Niko Decolati",
+      "position": "OF",
+      "team": "COL",
+      "url": "/players/nicholas-decolati/sa3006670/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3007046",
+      "name": "Jameson Hannah",
+      "position": "OF",
+      "team": "COL",
+      "url": "/players/jameson-hannah/sa3007046/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Brewers",
+      "id": "sa3008183",
+      "name": "Jimmy Herron",
+      "position": "OF",
+      "team": "COL",
+      "url": "/players/james-herron/sa3008183/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Brewers",
+      "id": "sa3006621",
+      "name": "Bladimir Restituyo",
+      "position": "OF",
+      "team": "COL",
+      "url": "/players/bladimir-restituyo/sa3006621/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007932",
+      "name": "Calvin Coker",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/calvin-coker/sa3007932/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Giants",
+      "id": "18815",
+      "name": "Miguel Díaz",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/miguel-diaz/18815/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3021013",
+      "name": "Snarlyn Evangelista",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/snarlyn-evangelista/sa3021013/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Tigers",
+      "id": "sa918026",
+      "name": "Wilkel Hernandez",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/wilkel-hernandez/sa918026/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "25097",
+      "name": "Garrett Hill",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/garrett-hill/25097/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Tigers",
+      "id": "sa3004713",
+      "name": "Tim Naughton",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/timothy-naughton/sa3004713/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Giants",
+      "id": "sa917689",
+      "name": "Joel Peguero",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/joel-peguero/sa917689/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007963",
+      "name": "Erick Pinales",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/erick-pinales/sa3007963/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Tigers",
+      "id": "sa3006985",
+      "name": "Angel Reyes",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/angel-reyes/sa3006985/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3016015",
+      "name": "Angel Sanchez",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/angel-sanchez/sa3016015/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Phillies",
+      "id": "sa3007585",
+      "name": "Austin Schulfer",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/austin-schulfer/sa3007585/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Tigers",
+      "id": "sa3007249",
+      "name": "Troy Watson",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/troy-watson/sa3007249/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Padres",
+      "id": "sa3007590",
+      "name": "Jake Higginbotham",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/jacob-higginbotham/sa3007590/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "20462",
+      "name": "Bryan Sammons",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/bryan-sammons/20462/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "19482",
+      "name": "Andrew Vasquez",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/andrew-vasquez/19482/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3018905",
+      "name": "Gerard Veloz",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/gerard-veloz/sa3018905/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3007587",
+      "name": "Adam Wolf",
+      "position": "P",
+      "team": "DET",
+      "url": "/players/adam-wolf/sa3007587/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "13854",
+      "name": "Anthony Bemboom",
+      "position": "C",
+      "team": "DET",
+      "url": "/players/anthony-bemboom/13854/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Tigers",
+      "id": "13755",
+      "name": "Tomás Nido",
+      "position": "C",
+      "team": "DET",
+      "url": "/players/tomas-nido/13755/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Royals",
+      "id": "sa503872",
+      "name": "Julio Rodriguez",
+      "position": "C",
+      "team": "DET",
+      "url": "/players/julio-rodriguez/sa503872/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "11381",
+      "name": "Drew Maggi",
+      "position": "3B/DH",
+      "team": "DET",
+      "url": "/players/drew-maggi/11381/stats?position=3B/DH"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa921577",
+      "name": "Luis Santana",
+      "position": "2B/3B",
+      "team": "DET",
+      "url": "/players/luis-santana/sa921577/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Tigers",
+      "id": "20054",
+      "name": "Bligh Madris",
+      "position": "1B/OF",
+      "team": "DET",
+      "url": "/players/bligh-madris/20054/stats?position=1B/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Phillies",
+      "id": "16375",
+      "name": "Óscar Mercado",
+      "position": "OF",
+      "team": "DET",
+      "url": "/players/oscar-mercado/16375/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Cardinals",
+      "id": "22165",
+      "name": "Ryan Vilade",
+      "position": "OF",
+      "team": "DET",
+      "url": "/players/ryan-vilade/22165/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006494",
+      "name": "Franny Cobos",
+      "position": "P",
+      "team": "HOU",
+      "url": "/players/franny-cobos/sa3006494/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "16455",
+      "name": "Conner Greene",
+      "position": "P",
+      "team": "HOU",
+      "url": "/players/conner-greene/16455/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007718",
+      "name": "Layne Henderson",
+      "position": "P",
+      "team": "HOU",
+      "url": "/players/layne-henderson/sa3007718/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006110",
+      "name": "Jeremy Molero",
+      "position": "P",
+      "team": "HOU",
+      "url": "/players/jeremy-molero/sa3006110/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Cleveland",
+      "id": "21324",
+      "name": "Parker Mushinski",
+      "position": "P",
+      "team": "HOU",
+      "url": "/players/parker-mushinski/21324/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3006817",
+      "name": "Julio Robaina",
+      "position": "P",
+      "team": "HOU",
+      "url": "/players/julio-robaina/sa3006817/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "White Sox",
+      "id": "13338",
+      "name": "Omar Narváez",
+      "position": "C",
+      "team": "HOU",
+      "url": "/players/omar-narvaez/13338/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "18482",
+      "name": "Chris Gittens",
+      "position": "1B",
+      "team": "HOU",
+      "url": "/players/chris-gittens/18482/stats?position=1B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3005774",
+      "name": "Rolando Espinosa",
+      "position": "OF",
+      "team": "HOU",
+      "url": "/players/rolando-espinosa/sa3005774/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "23449",
+      "name": "Ricky Karcher",
+      "position": "P",
+      "team": "KCR",
+      "url": "/players/ricky-karcher/23449/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "17186",
+      "name": "Dinelson Lamet",
+      "position": "P",
+      "team": "KCR",
+      "url": "/players/dinelson-lamet/17186/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Royals",
+      "id": "24604",
+      "name": "Austin Cox",
+      "position": "P",
+      "team": "KCR",
+      "url": "/players/austin-cox/24604/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3008588",
+      "name": "Rylan Kaufman",
+      "position": "P",
+      "team": "KCR",
+      "url": "/players/rylan-kaufman/sa3008588/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3008069",
+      "name": "Keylan Killgore",
+      "position": "P",
+      "team": "KCR",
+      "url": "/players/keylan-killgore/sa3008069/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Padres",
+      "id": "sa877500",
+      "name": "Rodolfo Durán",
+      "position": "C",
+      "team": "KCR",
+      "url": "/players/rodolfo-durn/sa877500/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3005562",
+      "name": "Enmanuel Pire",
+      "position": "C",
+      "team": "KCR",
+      "url": "/players/enmanuel-pire/sa3005562/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Twins",
+      "id": "sa3006218",
+      "name": "Ryan Fitzgerald",
+      "position": "SS",
+      "team": "KCR",
+      "url": "/players/ryan-fitzgerald/sa3006218/stats?position=SS"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "17737",
+      "name": "Josh Lester",
+      "position": "1B/DH",
+      "team": "KCR",
+      "url": "/players/josh-lester/17737/stats?position=1B/DH"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa3006869",
+      "name": "Devin Mann",
+      "position": "2B",
+      "team": "KCR",
+      "url": "/players/devin-mann/sa3006869/stats?position=2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa917320",
+      "name": "Leonel Valera",
+      "position": "SS",
+      "team": "KCR",
+      "url": "/players/leonel-valera/sa917320/stats?position=SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Red Sox",
+      "id": "25055",
+      "name": "Nate Eaton",
+      "position": "OF",
+      "team": "KCR",
+      "url": "/players/nate-eaton/25055/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Royals",
+      "id": "sa3005759",
+      "name": "Diego Hernandez",
+      "position": "OF",
+      "team": "KCR",
+      "url": "/players/diego-hernandez/sa3005759/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "sa3006358",
+      "name": "Ivan Armstrong",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/ivan-armstrong/sa3006358/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3015455",
+      "name": "Ruben Castillo",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/ruben-castillo/sa3015455/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Twins",
+      "id": "sa3010369",
+      "name": "Chase Chaney",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/chase-chaney/sa3010369/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "15288",
+      "name": "Adam Cimber",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/adam-cimber/15288/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "11691",
+      "name": "Tayron Guerrero",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/tayron-guerrero/11691/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa740812",
+      "name": "Luis Ledo",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/luis-ledo/sa740812/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa917950",
+      "name": "Travis MacGregor",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/travis-macgregor/sa917950/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "21761",
+      "name": "José Marte",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/jose-marte/21761/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008134",
+      "name": "John O'Reilly",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/john-oreilly/sa3008134/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rays",
+      "id": "24933",
+      "name": "Andrew Wantz",
+      "position": "P",
+      "team": "LAA",
+      "url": "/players/andrew-wantz/24933/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "21139",
+      "name": "Tyler Payne",
+      "position": "C",
+      "team": "LAA",
+      "url": "/players/tyler-payne/21139/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Rangers",
+      "id": "17161",
+      "name": "Chad Wallach",
+      "position": "C",
+      "team": "LAA",
+      "url": "/players/chad-wallach/17161/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Blue Jays",
+      "id": "25353",
+      "name": "Michael Stefanic",
+      "position": "2B",
+      "team": "LAA",
+      "url": "/players/michael-stefanic/25353/stats?position=2B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa3004780",
+      "name": "Shane Matheny",
+      "position": "3B",
+      "team": "LAA",
+      "url": "/players/shane-matheny/sa3004780/stats?position=3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Mariners",
+      "id": "13663",
+      "name": "Jack López",
+      "position": "2B",
+      "team": "LAA",
+      "url": "/players/jack-lopez/13663/stats?position=2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "11155",
+      "name": "Elliot Soto",
+      "position": "2B/SS",
+      "team": "LAA",
+      "url": "/players/elliot-soto/11155/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Braves",
+      "id": "11339",
+      "name": "Jake Marisnick",
+      "position": "OF",
+      "team": "LAA",
+      "url": "/players/jake-marisnick/11339/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "16429",
+      "name": "Jason Martin",
+      "position": "OF",
+      "team": "LAA",
+      "url": "/players/jason-martin/16429/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3006664",
+      "name": "Orlando Martinez",
+      "position": "OF",
+      "team": "LAA",
+      "url": "/players/orlando-martinez/sa3006664/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Pirates",
+      "id": "sa3004972",
+      "name": "Imanol Vargas",
+      "position": "1B",
+      "team": "LAA",
+      "url": "/players/imanol-vargas/sa3004972/stats?position=1B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Dodgers",
+      "id": "sa3006501",
+      "name": "Jeisson Cabrera",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/jeisson-cabrera/sa3006501/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa3007008",
+      "name": "Tanner Dodson",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/tanner-dodson/sa3007008/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "19546",
+      "name": "Jon Duplantier",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/jon-duplantier/19546/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Blue Jays",
+      "id": "sa917928",
+      "name": "Kevin Gowdy",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/kevin-gowdy/sa917928/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mariners",
+      "id": "sa917331",
+      "name": "Sauryn Lao",
+      "position": "1B/3B",
+      "team": "LAD",
+      "url": "/players/sauryn-lao/sa917331/stats?position=1B/3B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "7593",
+      "name": "Jordan Lyles",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/jordan-lyles/7593/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Twins",
+      "id": "sa3006415",
+      "name": "Michael Martinez",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/michael-martinez/sa3006415/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Diamondbacks",
+      "id": "sa917772",
+      "name": "Juan Morillo",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/juan-morillo/sa917772/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Dodgers",
+      "id": "sa3004462",
+      "name": "Jorge Benitez",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/jorge-benitez/sa3004462/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3002811",
+      "name": "Franklin De La Paz",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/franklin-de-la-paz/sa3002811/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Marlins",
+      "id": "sa3008417",
+      "name": "John Rooney",
+      "position": "P",
+      "team": "LAD",
+      "url": "/players/john-rooney/sa3008417/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Dodgers",
+      "id": "19245",
+      "name": "Chris Okey",
+      "position": "C",
+      "team": "LAD",
+      "url": "/players/chris-okey/19245/stats?position=C"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "18587",
+      "name": "Brendon Davis",
+      "position": "3B/OF",
+      "team": "LAD",
+      "url": "/players/brendon-davis/18587/stats?position=3B/OF"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa829387",
+      "name": "Cristian Santana",
+      "position": "3B",
+      "team": "LAD",
+      "url": "/players/cristian-santana/sa829387/stats?position=3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Rangers",
+      "id": "20056",
+      "name": "Alan Trejo",
+      "position": "2B",
+      "team": "LAD",
+      "url": "/players/alan-trejo/20056/stats?position=2B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Athletics",
+      "id": "sa3006937",
+      "name": "Drew Avans",
+      "position": "OF",
+      "team": "LAD",
+      "url": "/players/drew-avans/sa3006937/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa915654",
+      "name": "Donovan Casey",
+      "position": "OF",
+      "team": "LAD",
+      "url": "/players/donovan-casey/sa915654/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006352",
+      "name": "Delvis Alegre",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/delvis-alegre/sa3006352/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa919291",
+      "name": "Elvis Alvarado",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/elvis-alvarado/sa919291/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Angels",
+      "id": "19453",
+      "name": "Shaun Anderson",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/shaun-anderson/19453/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3014795",
+      "name": "Justin Evans",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/justin-evans/sa3014795/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "sa3006386",
+      "name": "Yeuris Jimenez",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/yeuris-jimenez/sa3006386/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Twins",
+      "id": "sa3003039",
+      "name": "Angel Macuare",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/angel-macuare/sa3003039/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Orioles",
+      "id": "sa873188",
+      "name": "Robinson Martínez",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/robinson-martnez/sa873188/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Athletics",
+      "id": "sa3011131",
+      "name": "Edgar Sanchez",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/edgar-sanchez/sa3011131/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Marlins",
+      "id": "19680",
+      "name": "Sixto Sánchez",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/sixto-sanchez/19680/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa736742",
+      "name": "Raffi Vizcaíno",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/raffi-vizcano/sa736742/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Marlins",
+      "id": "sa3003021",
+      "name": "Luis Palacios",
+      "position": "P",
+      "team": "MIA",
+      "url": "/players/luis-palacios/sa3003021/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Reds",
+      "id": "sa3007973",
+      "name": "Will Banfield",
+      "position": "C",
+      "team": "MIA",
+      "url": "/players/william-banfield/sa3007973/stats?position=C"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Tigers",
+      "id": "25111",
+      "name": "David Hensley",
+      "position": "DH/OF",
+      "team": "MIA",
+      "url": "/players/david-hensley/25111/stats?position=DH/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3003280",
+      "name": "Diego Infante",
+      "position": "OF",
+      "team": "MIA",
+      "url": "/players/diego-infante/sa3003280/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Dodgers",
+      "id": "sa3005015",
+      "name": "Sam Carlson",
+      "position": "P",
+      "team": "MIL",
+      "url": "/players/samuel-carlson/sa3005015/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Padres",
+      "id": "sa917637",
+      "name": "Harold Chirino",
+      "position": "P",
+      "team": "MIL",
+      "url": "/players/harold-chirino/sa917637/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "White Sox",
+      "id": "19990",
+      "name": "Bryse Wilson",
+      "position": "P",
+      "team": "MIL",
+      "url": "/players/bryse-wilson/19990/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3005538",
+      "name": "Jesus Chirinos",
+      "position": "1B",
+      "team": "MIL",
+      "url": "/players/jesus-chirinos/sa3005538/stats?position=1B"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "16403",
+      "name": "Francisco Mejía",
+      "position": "C",
+      "team": "MIL",
+      "url": "/players/francisco-mejia/16403/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "16398",
+      "name": "Brian Navarreto",
+      "position": "C",
+      "team": "MIL",
+      "url": "/players/brian-navarreto/16398/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Reds",
+      "id": "sa917939",
+      "name": "Andy Yerzy",
+      "position": "C/1B",
+      "team": "MIL",
+      "url": "/players/andrew-yerzy/sa917939/stats?position=C/1B"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "Brewers",
+      "id": "15194",
+      "name": "Jake Bauers",
+      "position": "1B/OF",
+      "team": "MIL",
+      "url": "/players/jake-bauers/15194/stats?position=1B/OF"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "sa3007629",
+      "name": "Patrick Dorrian",
+      "position": "3B",
+      "team": "MIL",
+      "url": "/players/patrick-dorrian/sa3007629/stats?position=3B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa3006187",
+      "name": "Jose Acosta",
+      "position": "2B",
+      "team": "MIL",
+      "url": "/players/jose-acosta/sa3006187/stats?position=2B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Phillies",
+      "id": "16434",
+      "name": "Christian Arroyo",
+      "position": "2B",
+      "team": "MIL",
+      "url": "/players/christian-arroyo/16434/stats?position=2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3005613",
+      "name": "Felix Valerio",
+      "position": "2B",
+      "team": "MIL",
+      "url": "/players/felix-valerio/sa3005613/stats?position=2B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3005612",
+      "name": "Reidy Mercado",
+      "position": "OF",
+      "team": "MIL",
+      "url": "/players/reidy-mercado/sa3005612/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa736884",
+      "name": "Carlos Rodriguez",
+      "position": "OF",
+      "team": "MIL",
+      "url": "/players/carlos-rodriguez/sa736884/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "23557",
+      "name": "Chris Roller",
+      "position": "OF",
+      "team": "MIL",
+      "url": "/players/chris-roller/23557/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Royals",
+      "id": "sa3008080",
+      "name": "Connor Scott",
+      "position": "OF",
+      "team": "MIL",
+      "url": "/players/connor-scott/sa3008080/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3004932",
+      "name": "Lamar Sparks",
+      "position": "OF",
+      "team": "MIL",
+      "url": "/players/lamar-sparks/sa3004932/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Twins",
+      "id": "16427",
+      "name": "Scott Blewett",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/scott-blewett/16427/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Diamondbacks",
+      "id": "16631",
+      "name": "Jeff Brigham",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/jeff-brigham/16631/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Dodgers",
+      "id": "14986",
+      "name": "Giovanny Gallegos",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/giovanny-gallegos/14986/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008101",
+      "name": "Regi Grace",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/regi-grace/sa3008101/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Red Sox",
+      "id": "18615",
+      "name": "Hobie Harris",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/hobie-harris/18615/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006615",
+      "name": "Danny Moreno",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/danny-moreno/sa3006615/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "15846",
+      "name": "Adam Plutko",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/adam-plutko/15846/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006570",
+      "name": "Miguel Rodriguez",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/miguel-rodriguez/sa3006570/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cardinals",
+      "id": "15444",
+      "name": "Zack Weiss",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/zack-weiss/15444/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Diamondbacks",
+      "id": "24606",
+      "name": "Josh Winder",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/josh-winder/24606/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Twins",
+      "id": "sa3008330",
+      "name": "Rafael Marcano",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/rafael-marcano/sa3008330/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Twins",
+      "id": "sa3005332",
+      "name": "Gabriel Yanez",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/gabriel-yanez/sa3005332/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3005917",
+      "name": "Wilfri Castro",
+      "position": "C",
+      "team": "MIN",
+      "url": "/players/wilfri-castro/sa3005917/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Tigers",
+      "id": "sa3020466",
+      "name": "Chris Williams Jr.",
+      "position": "P",
+      "team": "MIN",
+      "url": "/players/christopher-williams/sa3020466/stats?position=P"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "sa3007298",
+      "name": "Rixon Wingrove",
+      "position": "1B",
+      "team": "MIN",
+      "url": "/players/rixon-wingrove/sa3007298/stats?position=1B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "19768",
+      "name": "Rylan Bannon",
+      "position": "2B/3B/DH",
+      "team": "MIN",
+      "url": "/players/rylan-bannon/19768/stats?position=2B/3B/DH"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Twins",
+      "id": "sa3003185",
+      "name": "Yunior Severino",
+      "position": "2B/3B",
+      "team": "MIN",
+      "url": "/players/yunior-severino/sa3003185/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3005755",
+      "name": "Carlos Aguiar",
+      "position": "OF",
+      "team": "MIN",
+      "url": "/players/carlos-aguiar/sa3005755/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3004149",
+      "name": "Agustin Ruiz",
+      "position": "OF",
+      "team": "MIN",
+      "url": "/players/agustin-ruiz/sa3004149/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mets",
+      "id": "sa3006133",
+      "name": "Robert Colina",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/robert-colina/sa3006133/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "13182",
+      "name": "Kyle Crick",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/kyle-crick/13182/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mets",
+      "id": "sa871477",
+      "name": "Carlos Guzman",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/carlos-guzman/sa871477/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Dodgers",
+      "id": "sa3007775",
+      "name": "Justin Jarvis",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/justin-jarvis/sa3007775/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mets",
+      "id": "sa3008361",
+      "name": "Brian Metoyer",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/brian-metoyer/sa3008361/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rockies",
+      "id": "sa3006399",
+      "name": "Alan Perdomo",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/alan-perdomo/sa3006399/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Pirates",
+      "id": "sa3006487",
+      "name": "Wilkin Ramos",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/wilkin-ramos/sa3006487/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005216",
+      "name": "Cam Robinson",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/cameron-robinson/sa3005216/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "sa3005470",
+      "name": "Junior Santos",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/junior-santos/sa3005470/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20329",
+      "name": "Andre Scrubb",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/andre-scrubb/20329/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Yankees",
+      "id": "sa3008542",
+      "name": "Jordany Ventura",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/jordany-ventura/sa3008542/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Tigers",
+      "id": "17381",
+      "name": "Matt Gage",
+      "position": "P",
+      "team": "NYM",
+      "url": "/players/matt-gage/17381/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "18083",
+      "name": "Austin Allen",
+      "position": "C",
+      "team": "NYM",
+      "url": "/players/austin-allen/18083/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Giants",
+      "id": "20626",
+      "name": "Logan Porter",
+      "position": "C",
+      "team": "NYM",
+      "url": "/players/logan-porter/20626/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Angels",
+      "id": "11602",
+      "name": "Yolmer Sánchez",
+      "position": "2B/3B",
+      "team": "NYM",
+      "url": "/players/yolmer-sanchez/11602/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Padres",
+      "id": "19683",
+      "name": "Mike Brosseau",
+      "position": "3B",
+      "team": "NYM",
+      "url": "/players/mike-brosseau/19683/stats?position=3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Orioles",
+      "id": "sa3007740",
+      "name": "Jeremiah Jackson",
+      "position": "2B/SS",
+      "team": "NYM",
+      "url": "/players/jeremiah-jackson/sa3007740/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa3003288",
+      "name": "Jose Peroza",
+      "position": "3B",
+      "team": "NYM",
+      "url": "/players/jose-peroza/sa3003288/stats?position=3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3007050",
+      "name": "Mateo Gil",
+      "position": "3B/SS",
+      "team": "NYM",
+      "url": "/players/mateo-gil/sa3007050/stats?position=3B/SS"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3008297",
+      "name": "Jaylen Palmer",
+      "position": "3B/OF",
+      "team": "NYM",
+      "url": "/players/jaylen-palmer/sa3008297/stats?position=3B/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3005628",
+      "name": "Stanley Consuegra",
+      "position": "OF",
+      "team": "NYM",
+      "url": "/players/stanley-consuegra/sa3005628/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Athletics",
+      "id": "sa3008079",
+      "name": "Carlos Cortes",
+      "position": "2B/OF",
+      "team": "NYM",
+      "url": "/players/carlos-cortes/sa3008079/stats?position=2B/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Phillies",
+      "id": "sa3005181",
+      "name": "D.J. Stewart",
+      "position": "1B/3B",
+      "team": "NYM",
+      "url": "/players/devan-stewart/sa3005181/stats?position=1B/3B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rays",
+      "id": "24591",
+      "name": "Joey Gerber",
+      "position": "P",
+      "team": "NYY",
+      "url": "/players/joey-gerber/24591/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Brewers",
+      "id": "sa658076",
+      "name": "Jesús Liranzo",
+      "position": "P",
+      "team": "NYY",
+      "url": "/players/jess-liranzo/sa658076/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007840",
+      "name": "Anderson Munoz",
+      "position": "P",
+      "team": "NYY",
+      "url": "/players/anderson-munoz/sa3007840/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Dodgers",
+      "id": "22284",
+      "name": "Matt Sauer",
+      "position": "P",
+      "team": "NYY",
+      "url": "/players/matt-sauer/22284/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Brewers",
+      "id": "17281",
+      "name": "Thomas Pannone",
+      "position": "P",
+      "team": "NYY",
+      "url": "/players/thomas-pannone/17281/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3005592",
+      "name": "Juan Crisp",
+      "position": "C",
+      "team": "NYY",
+      "url": "/players/juan-crisp/sa3005592/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Brewers",
+      "id": "sa3006894",
+      "name": "Anthony Seigler",
+      "position": "C/2B",
+      "team": "NYY",
+      "url": "/players/anthony-seigler/sa3006894/stats?position=C/2B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Tigers",
+      "id": "18872",
+      "name": "Jahmai Jones",
+      "position": "2B",
+      "team": "NYY",
+      "url": "/players/jahmai-jones/18872/stats?position=2B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa3007631",
+      "name": "Max Burt",
+      "position": "3B",
+      "team": "NYY",
+      "url": "/players/maxwell-burt/sa3007631/stats?position=3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "16623",
+      "name": "Greg Allen",
+      "position": "OF",
+      "team": "NYY",
+      "url": "/players/greg-allen/16623/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Padres",
+      "id": "20970",
+      "name": "Oscar Gonzalez",
+      "position": "OF",
+      "team": "NYY",
+      "url": "/players/oscar-gonzalez/20970/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "14735",
+      "name": "Brett Phillips",
+      "position": "OF",
+      "team": "NYY",
+      "url": "/players/brett-phillips/14735/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008523",
+      "name": "Zach Haake",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/zachary-haake/sa3008523/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Yankees",
+      "id": "sa3005836",
+      "name": "Cristian Hernandez",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/cristian-hernandez/sa3005836/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "14416",
+      "name": "Yunior Marte",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/yunior-marte/14416/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007851",
+      "name": "Tyler McKay",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/tyler-mckay/sa3007851/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mets",
+      "id": "16942",
+      "name": "Luis F. Ortiz",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/luis-f-ortiz/16942/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Marlins",
+      "id": "sa3003123",
+      "name": "Robinson Pina",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/robinson-pina/sa3003123/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007896",
+      "name": "Dominic Pipkin",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/dominic-pipkin/sa3007896/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "23493",
+      "name": "Nick Snyder",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/nicklaus-snyder/23493/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Marlins",
+      "id": "23324",
+      "name": "Freddy Tarnok",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/freddy-tarnok/23324/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Cleveland",
+      "id": "18694",
+      "name": "Kolby Allard",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/kolby-allard/18694/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3006141",
+      "name": "Jordi Martinez",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/jordi-martinez/sa3006141/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa877857",
+      "name": "Lachlan Wells",
+      "position": "P",
+      "team": "PHI",
+      "url": "/players/lachlan-wells/sa877857/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3007869",
+      "name": "Cody Roberts",
+      "position": "C",
+      "team": "PHI",
+      "url": "/players/cody-roberts/sa3007869/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "Pirates",
+      "id": "19717",
+      "name": "Darick Hall",
+      "position": "1B/DH",
+      "team": "PHI",
+      "url": "/players/darick-hall/19717/stats?position=1B/DH"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa918418",
+      "name": "Jim Haley",
+      "position": "1B/3B",
+      "team": "PHI",
+      "url": "/players/james-haley/sa918418/stats?position=1B/3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Dodgers",
+      "id": "sa3006867",
+      "name": "Kendall Simmons",
+      "position": "2B/3B",
+      "team": "PHI",
+      "url": "/players/kendall-simmons/sa3006867/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Phillies",
+      "id": "21987",
+      "name": "Rodolfo Castro",
+      "position": "2B/SS",
+      "team": "PHI",
+      "url": "/players/rodolfo-castro/21987/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "13744",
+      "name": "David Dahl",
+      "position": "OF",
+      "team": "PHI",
+      "url": "/players/david-dahl/13744/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Nationals",
+      "id": "sa3006903",
+      "name": "Carlos De La Cruz",
+      "position": "OF",
+      "team": "PHI",
+      "url": "/players/carlos-de-la-cruz/sa3006903/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "16424",
+      "name": "Jordan Luplow",
+      "position": "OF",
+      "team": "PHI",
+      "url": "/players/jordan-luplow/16424/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "19928",
+      "name": "Ryan McKenna",
+      "position": "OF",
+      "team": "PHI",
+      "url": "/players/ryan-mckenna/19928/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007613",
+      "name": "Brad Case",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/bradley-case/sa3007613/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "13345",
+      "name": "Luis Cessa",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/luis-cessa/13345/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cubs",
+      "id": "15100",
+      "name": "Ben Heller",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/ben-heller/15100/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Pirates",
+      "id": "19345",
+      "name": "Daulton Jefferies",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/daulton-jefferies/19345/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008403",
+      "name": "Jose Maldonado",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/jose-maldonado/sa3008403/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Pirates",
+      "id": "20385",
+      "name": "Isaac Mattson",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/isaac-mattson/20385/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Pirates",
+      "id": "sa873429",
+      "name": "Cristofer Melendez",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/cristofer-melendez/sa873429/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "13483",
+      "name": "Connor Sadzeck",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/connor-sadzeck/13483/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006759",
+      "name": "Aaron Shortridge",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/aaron-shortridge/sa3006759/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "23420",
+      "name": "Beau Sulser",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/beau-sulser/23420/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "15968",
+      "name": "Brady Feigl",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/brady-feigl/15968/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa597245",
+      "name": "Geronimo Franzua",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/geronimo-franzua/sa597245/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Rangers",
+      "id": "23191",
+      "name": "Michael Plassmeyer",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/michael-plassmeyer/23191/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Pirates",
+      "id": "sa3010125",
+      "name": "Blake Townsend",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/blake-townsend/sa3010125/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Blue Jays",
+      "id": "23617",
+      "name": "Josh Walker",
+      "position": "P",
+      "team": "PIT",
+      "url": "/players/josh-walker/23617/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Pirates",
+      "id": "sa3004263",
+      "name": "Abrahan Gutierrez",
+      "position": "C",
+      "team": "PIT",
+      "url": "/players/abrahan-gutierrez/sa3004263/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "22045",
+      "name": "Grant Koch",
+      "position": "C",
+      "team": "PIT",
+      "url": "/players/grant-koch/22045/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "20493",
+      "name": "Seth Beer",
+      "position": "DH",
+      "team": "PIT",
+      "url": "/players/seth-beer/20493/stats?position=DH"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Padres",
+      "id": "sa3003291",
+      "name": "Francisco Acuna",
+      "position": "SS",
+      "team": "PIT",
+      "url": "/players/francisco-acuna/sa3003291/stats?position=SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Mariners",
+      "id": "sa3005938",
+      "name": "Yoyner Fajardo",
+      "position": "OF",
+      "team": "PIT",
+      "url": "/players/yoyner-fajardo/sa3005938/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3007048",
+      "name": "P.J. Hilson",
+      "position": "OF",
+      "team": "PIT",
+      "url": "/players/patrick-hilson/sa3007048/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Giants",
+      "id": "13329",
+      "name": "Jake Lamb",
+      "position": "3B",
+      "team": "PIT",
+      "url": "/players/jake-lamb/13329/stats?position=3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa877497",
+      "name": "Arquímedes Gamboa",
+      "position": "SS",
+      "team": "STL",
+      "url": "/players/arqumedes-gamboa/sa877497/stats?position=SS"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "19868",
+      "name": "Drew Carlton",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/drew-carlton/19868/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Phillies",
+      "id": "17732",
+      "name": "Nabil Crismatt",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/nabil-crismatt/17732/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Red Sox",
+      "id": "sa3002951",
+      "name": "Yovanny Cruz",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/yovanny-cruz/sa3002951/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "13607",
+      "name": "Carl Edwards Jr.",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/carl-edwards-jr/13607/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "21541",
+      "name": "Reiss Knehr",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/reiss-knehr/21541/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa917951",
+      "name": "Reggie Lawson",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/reginald-lawson/sa917951/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Padres",
+      "id": "sa3010244",
+      "name": "Seth Mayberry",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/seth-mayberry/sa3010244/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Blue Jays",
+      "id": "sa3007216",
+      "name": "Bobby Milacki",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/bobby-milacki/sa3007216/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Phillies",
+      "id": "sa3006834",
+      "name": "Gabe Mosser",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/gabe-mosser/sa3006834/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3007721",
+      "name": "Josh Roberson",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/josh-roberson/sa3007721/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa874732",
+      "name": "Nolan Watson",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/nolan-watson/sa874732/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "14467",
+      "name": "Daniel Camarena",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/daniel-camarena/14467/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "12699",
+      "name": "Ryan Carpenter",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/ryan-carpenter/12699/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Padres",
+      "id": "17117",
+      "name": "Austin Davis",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/austin-davis/17117/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "15832",
+      "name": "Paul Fry",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/paul-fry/15832/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3006069",
+      "name": "Jesus Gonzalez",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/jesus-gonzalez/sa3006069/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Yankees",
+      "id": "sa3007621",
+      "name": "Jayvien Sandridge",
+      "position": "P",
+      "team": "SDP",
+      "url": "/players/jayvien-sandridge/sa3007621/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa736830",
+      "name": "Michael De La Cruz",
+      "position": "C",
+      "team": "SDP",
+      "url": "/players/michael-de-la-cruz/sa736830/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "13807",
+      "name": "Kevin Plawecki",
+      "position": "C",
+      "team": "SDP",
+      "url": "/players/kevin-plawecki/13807/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Braves",
+      "id": "23552",
+      "name": "Chandler Seagle",
+      "position": "DH",
+      "team": "SDP",
+      "url": "/players/chandler-seagle/23552/stats?position=DH"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa913717",
+      "name": "Juan Zabala",
+      "position": "C",
+      "team": "SDP",
+      "url": "/players/juan-zabala/sa913717/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "19563",
+      "name": "Nate Mondou",
+      "position": "2B",
+      "team": "SDP",
+      "url": "/players/nate-mondou/19563/stats?position=2B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa738999",
+      "name": "Robbie Tenerowicz",
+      "position": "1B",
+      "team": "SDP",
+      "url": "/players/robert-tenerowicz/sa738999/stats?position=1B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "20157",
+      "name": "Matthew Batten",
+      "position": "2B/3B",
+      "team": "SDP",
+      "url": "/players/matthew-batten/20157/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa736824",
+      "name": "Ray-Patrick Didder",
+      "position": "SS/OF",
+      "team": "SDP",
+      "url": "/players/ray-patrick-didder/sa736824/stats?position=SS/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3007870",
+      "name": "Connor Hollis",
+      "position": "2B/3B",
+      "team": "SDP",
+      "url": "/players/connor-hollis/sa3007870/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "15124",
+      "name": "Tim Locastro",
+      "position": "OF",
+      "team": "SDP",
+      "url": "/players/tim-locastro/15124/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "White Sox",
+      "id": "22169",
+      "name": "Cal Mitchell",
+      "position": "OF",
+      "team": "SDP",
+      "url": "/players/calvin-mitchell/22169/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3002851",
+      "name": "Robert Perez Jr.",
+      "position": "1B/OF",
+      "team": "SDP",
+      "url": "/players/robert-perez-jr/sa3002851/stats?position=1B/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "19667",
+      "name": "Zach Reks",
+      "position": "OF",
+      "team": "SDP",
+      "url": "/players/zach-reks/19667/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005117",
+      "name": "Blayne Enlow",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/blayne-enlow/sa3005117/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006801",
+      "name": "Matt Frisbee",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/matt-frisbee/sa3006801/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "sa3007459",
+      "name": "Clay Helvey",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/clay-helvey/sa3007459/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "23252",
+      "name": "Spencer Howard",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/spencer-howard/23252/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Dodgers",
+      "id": "sa738380",
+      "name": "Tanner Kiest",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/tanner-kiest/sa738380/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008261",
+      "name": "Blake Rivera",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/austin-rivera/sa3008261/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "23465",
+      "name": "Tommy Romero",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/tommy-romero/23465/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3004584",
+      "name": "Drew Strotman",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/andrew-strotman/sa3004584/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Giants",
+      "id": "22370",
+      "name": "Raymond Burgos",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/raymond-burgos/22370/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3004648",
+      "name": "Seth Corry",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/seth-corry/sa3004648/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Braves",
+      "id": "26068",
+      "name": "Kolton Ingram",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/kolton-ingram/26068/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "21065",
+      "name": "Thomas Szapucki",
+      "position": "P",
+      "team": "SFG",
+      "url": "/players/thomas-szapucki/21065/stats?position=P"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "",
+      "id": "sa3005541",
+      "name": "Luis Toribio",
+      "position": "1B/3B",
+      "team": "SFG",
+      "url": "/players/luis-toribio/sa3005541/stats?position=1B/3B"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Mets",
+      "id": "19314",
+      "name": "Donovan Walton",
+      "position": "2B/SS",
+      "team": "SFG",
+      "url": "/players/donovan-walton/19314/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Padres",
+      "id": "19384",
+      "name": "Trenton Brooks",
+      "position": "1B",
+      "team": "SFG",
+      "url": "/players/trenton-brooks/19384/stats?position=1B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Twins",
+      "id": "sa3005504",
+      "name": "Allan Cerda",
+      "position": "OF",
+      "team": "SFG",
+      "url": "/players/allan-cerda/sa3005504/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "18905",
+      "name": "Yusniel Díaz",
+      "position": "OF",
+      "team": "SFG",
+      "url": "/players/yusniel-diaz/18905/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Yankees",
+      "id": "sa917132",
+      "name": "Ismael Munguia",
+      "position": "OF",
+      "team": "SFG",
+      "url": "/players/ismael-munguia/sa917132/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3003961",
+      "name": "Chase Pinder",
+      "position": "OF",
+      "team": "SFG",
+      "url": "/players/chase-pinder/sa3003961/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa3008169",
+      "name": "Luis Curvelo",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/luis-curvelo/sa3008169/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3009547",
+      "name": "Alisson Del Orbe",
+      "position": "3B",
+      "team": "SEA",
+      "url": "/players/alisson-del-orbe/sa3009547/stats?position=3B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3011612",
+      "name": "Olivier Gomez",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/olivier-gomez/sa3011612/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3010306",
+      "name": "Logan Gragg",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/logan-gragg/sa3010306/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008514",
+      "name": "Jake Haberer",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/jacob-haberer/sa3008514/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mariners",
+      "id": "13287",
+      "name": "Jesse Hahn",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/jesse-hahn/13287/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006385",
+      "name": "Joseph Hernandez",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/joseph-hernandez/sa3006385/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20631",
+      "name": "Jordan Holloway",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/jordan-holloway/20631/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "18454",
+      "name": "Trevor Kelley",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/trevor-kelley/18454/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rays",
+      "id": "13707",
+      "name": "Joey Krehbiel",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/joey-krehbiel/13707/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mariners",
+      "id": "11121",
+      "name": "Casey Lawrence",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/casey-lawrence/11121/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "10835",
+      "name": "Michael Mariot",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/michael-mariot/10835/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Giants",
+      "id": "sa3002818",
+      "name": "Juan Mercedes",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/juan-mercedes/sa3002818/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "11801",
+      "name": "Hansel Robles",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/hansel-robles/11801/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mariners",
+      "id": "sa3005812",
+      "name": "Yeury Tatiz",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/yeury-tatiz/sa3005812/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Orioles",
+      "id": "sa3005696",
+      "name": "Raúl Alcantara",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/ral-alcantara/sa3005696/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Nationals",
+      "id": "sa875052",
+      "name": "Garrett Davila",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/garrett-davila/sa875052/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Mariners",
+      "id": "20418",
+      "name": "Josh Fleming",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/josh-fleming/20418/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Cardinals",
+      "id": "15792",
+      "name": "Rob Kaminsky",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/rob-kaminsky/15792/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3008332",
+      "name": "Holden Laws",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/holden-laws/sa3008332/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3006100",
+      "name": "Brayan Perez",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/brayan-perez/sa3006100/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3022417",
+      "name": "Fernando Silvera",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/fernando-silvera/sa3022417/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Giants",
+      "id": "sa3020960",
+      "name": "C.J. Widger",
+      "position": "P",
+      "team": "SEA",
+      "url": "/players/christopher-widger/sa3020960/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Cleveland",
+      "id": "sa3006674",
+      "name": "Jake Anchia",
+      "position": "C",
+      "team": "SEA",
+      "url": "/players/jake-anchia/sa3006674/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Mariners",
+      "id": "sa3002866",
+      "name": "Freuddy Batista",
+      "position": "C",
+      "team": "SEA",
+      "url": "/players/freuddy-batista/sa3002866/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3006221",
+      "name": "Junior Gonzalez",
+      "position": "C",
+      "team": "SEA",
+      "url": "/players/junior-gonzalez/sa3006221/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "21386",
+      "name": "Michael Papierski",
+      "position": "C",
+      "team": "SEA",
+      "url": "/players/michael-papierski/21386/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Mariners",
+      "id": "12384",
+      "name": "Beau Taylor",
+      "position": "C",
+      "team": "SEA",
+      "url": "/players/beau-taylor/12384/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Braves",
+      "id": "sa3017052",
+      "name": "Kobe Kato",
+      "position": "2B/OF",
+      "team": "SEA",
+      "url": "/players/kobe-kato/sa3017052/stats?position=2B/OF"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa3007871",
+      "name": "Jake Slaughter",
+      "position": "2B/3B",
+      "team": "SEA",
+      "url": "/players/jacob-slaughter/sa3007871/stats?position=2B/3B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa3004813",
+      "name": "Logan Warmoth",
+      "position": "SS/OF",
+      "team": "SEA",
+      "url": "/players/logan-warmoth/sa3004813/stats?position=SS/OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Brewers",
+      "id": "19968",
+      "name": "Jared Oliva",
+      "position": "OF",
+      "team": "SEA",
+      "url": "/players/jared-oliva/19968/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3005603",
+      "name": "Alberto Rodriguez",
+      "position": "OF",
+      "team": "SEA",
+      "url": "/players/alberto-rodriguez/sa3005603/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Pirates",
+      "id": "19294",
+      "name": "Nick Solak",
+      "position": "2B",
+      "team": "SEA",
+      "url": "/players/nick-solak/19294/stats?position=2B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006590",
+      "name": "Carlos Garcia",
+      "position": "P",
+      "team": "TBR",
+      "url": "/players/carlos-garcia/sa3006590/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cardinals",
+      "id": "sa3008454",
+      "name": "Michael Gomez",
+      "position": "P",
+      "team": "TBR",
+      "url": "/players/michael-gomez/sa3008454/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Phillies",
+      "id": "19995",
+      "name": "Joel Kuhnel",
+      "position": "P",
+      "team": "TBR",
+      "url": "/players/joel-kuhnel/19995/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008619",
+      "name": "Joe Record",
+      "position": "P",
+      "team": "TBR",
+      "url": "/players/joseph-record/sa3008619/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Giants",
+      "id": "sa3008074",
+      "name": "Antonio Jimenez",
+      "position": "P",
+      "team": "TBR",
+      "url": "/players/antonio-jimenez/sa3008074/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "20186",
+      "name": "Brendan McKay",
+      "position": "P",
+      "team": "TBR",
+      "url": "/players/brendan-mckay/20186/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Rays",
+      "id": "sa916844",
+      "name": "Ricardo Genovés",
+      "position": "C",
+      "team": "TBR",
+      "url": "/players/ricardo-genovs/sa916844/stats?position=C"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Marlins",
+      "id": "sa3008365",
+      "name": "Ronny Simon",
+      "position": "2B",
+      "team": "TBR",
+      "url": "/players/ronny-simon/sa3008365/stats?position=2B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "",
+      "id": "sa3007326",
+      "name": "Gionti Turner",
+      "position": "2B/OF",
+      "team": "TBR",
+      "url": "/players/gionti-turner/sa3007326/stats?position=2B/OF"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "",
+      "id": "sa658616",
+      "name": "C.J. Hinojosa",
+      "position": "2B/SS",
+      "team": "TBR",
+      "url": "/players/christopher-hinojosa/sa658616/stats?position=2B/SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Marlins",
+      "id": "sa3005630",
+      "name": "Heriberto Hernandez",
+      "position": "OF",
+      "team": "TBR",
+      "url": "/players/heriberto-hernandez/sa3005630/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Nationals",
+      "id": "sa3007639",
+      "name": "Nick Schnell",
+      "position": "OF",
+      "team": "TBR",
+      "url": "/players/nicholas-schnell/sa3007639/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "13713",
+      "name": "Kyle Barraclough",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/kyle-barraclough/13713/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Rangers",
+      "id": "sa3008630",
+      "name": "Tim Brennan",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/tim-brennan/sa3008630/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "10756",
+      "name": "Shane Greene",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/shane-greene/10756/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005430",
+      "name": "Damian Mendoza",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/damian-mendoza/sa3005430/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "13339",
+      "name": "Adrian Sampson",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/adrian-sampson/13339/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20476",
+      "name": "Peter Solomon",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/peter-solomon/20476/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa873686",
+      "name": "Tyler Zombro",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/tyler-zombro/sa873686/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "Brewers",
+      "id": "sa3008313",
+      "name": "Grant Wolfram",
+      "position": "P",
+      "team": "TEX",
+      "url": "/players/grant-wolfram/sa3008313/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3007914",
+      "name": "Jesus Moreno",
+      "position": "C",
+      "team": "TEX",
+      "url": "/players/jesus-moreno/sa3007914/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Blue Jays",
+      "id": "sa915868",
+      "name": "Matt Whatley",
+      "position": "C",
+      "team": "TEX",
+      "url": "/players/matthew-whatley/sa915868/stats?position=C"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Rangers",
+      "id": "19477",
+      "name": "Alex De Goti",
+      "position": "2B",
+      "team": "TEX",
+      "url": "/players/alex-de-goti/19477/stats?position=2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Rangers",
+      "id": "sa3008251",
+      "name": "Jax Biggers",
+      "position": "2B",
+      "team": "TEX",
+      "url": "/players/jax-biggers/sa3008251/stats?position=2B"
+    },
+    {
+      "ba_position": "SS",
+      "fg_team": "Cardinals",
+      "id": "23378",
+      "name": "Jose Barrero",
+      "position": "SS",
+      "team": "TEX",
+      "url": "/players/jose-barrero/23378/stats?position=SS"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "Rangers",
+      "id": "sa3003274",
+      "name": "Luis Mieses",
+      "position": "OF",
+      "team": "TEX",
+      "url": "/players/luis-mieses/sa3003274/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "19348",
+      "name": "DJ Peters",
+      "position": "OF",
+      "team": "TEX",
+      "url": "/players/dj-peters/19348/stats?position=OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Phillies",
+      "id": "sa829787",
+      "name": "Andrew Bechtold",
+      "position": "3B",
+      "team": "TOR",
+      "url": "/players/andrew-bechtold/sa829787/stats?position=3B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3017858",
+      "name": "Evan Elliott",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/evan-elliott/sa3017858/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3003347",
+      "name": "Sebastian Espino",
+      "position": "SS/OF",
+      "team": "TOR",
+      "url": "/players/sebastian-espino/sa3003347/stats?position=SS/OF"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Blue Jays",
+      "id": "sa3007929",
+      "name": "Braydon Fisher",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/braydon-fisher/sa3007929/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Cleveland",
+      "id": "21997",
+      "name": "Luis Frías",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/luis-frias/21997/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3006177",
+      "name": "Adrian Hernandez",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/adrian-hernandez/sa3006177/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "18331",
+      "name": "James Kaprielian",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/james-kaprielian/18331/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Brewers",
+      "id": "sa916829",
+      "name": "Abdiel Mendoza",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/abdiel-mendoza/sa916829/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Blue Jays",
+      "id": "sa968102",
+      "name": "Eric Pardinho",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/eric-pardinho/sa968102/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Pirates",
+      "id": "21955",
+      "name": "Yerry Rodríguez",
+      "position": "P",
+      "team": "TOR",
+      "url": "/players/yerry-rodriguez/21955/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3005952",
+      "name": "Jose Ferrer",
+      "position": "C",
+      "team": "TOR",
+      "url": "/players/jose-ferrer/sa3005952/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Phillies",
+      "id": "22164",
+      "name": "Payton Henry",
+      "position": "C",
+      "team": "TOR",
+      "url": "/players/payton-henry/22164/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa875626",
+      "name": "Max McDowell",
+      "position": "C",
+      "team": "TOR",
+      "url": "/players/maxwell-mcdowell/sa875626/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "sa3011446",
+      "name": "Jamari Baylor",
+      "position": "2B",
+      "team": "TOR",
+      "url": "/players/jamari-baylor/sa3011446/stats?position=2B"
+    },
+    {
+      "ba_position": "2B",
+      "fg_team": "Phillies",
+      "id": "sa3003219",
+      "name": "Rafael Lantigua",
+      "position": "2B",
+      "team": "TOR",
+      "url": "/players/rafael-lantigua/sa3003219/stats?position=2B"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3010648",
+      "name": "Mason Denaburg",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/mason-denaburg/sa3010648/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005464",
+      "name": "Moises Diaz",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/moises-diaz/sa3005464/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mets",
+      "id": "20023",
+      "name": "Rico Garcia",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/rico-garcia/20023/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008434",
+      "name": "Richard Guasch",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/richard-guasch/sa3008434/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Mariners",
+      "id": "19903",
+      "name": "Adonis Medina",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/adonis-medina/19903/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3005371",
+      "name": "Aldo Ramirez",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/aldo-ramirez/sa3005371/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3003036",
+      "name": "Samuel Reyes",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/samuel-reyes/sa3003036/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "sa3003106",
+      "name": "Carlos Romero",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/carlos-romero/sa3003106/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "19454",
+      "name": "Michael Rucker",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/michael-rucker/19454/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "Nationals",
+      "id": "sa3008023",
+      "name": "Reid Schaller",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/roland-schaller/sa3008023/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "sa3008228",
+      "name": "Rodney Theophile",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/rodney-theophile/sa3008228/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "20177",
+      "name": "Ty Tice",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/ty-tice/20177/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "25413",
+      "name": "Nash Walters",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/nash-walters/25413/stats?position=P"
+    },
+    {
+      "ba_position": "RHP",
+      "fg_team": "",
+      "id": "17489",
+      "name": "Spenser Watkins",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/spenser-watkins/17489/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3007926",
+      "name": "Tim Cate",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/timothy-cate/sa3007926/stats?position=P"
+    },
+    {
+      "ba_position": "LHP",
+      "fg_team": "",
+      "id": "sa3023177",
+      "name": "Will Sandy",
+      "position": "P",
+      "team": "WSN",
+      "url": "/players/william-sandy/sa3023177/stats?position=P"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3002635",
+      "name": "Geraldi Diaz",
+      "position": "C",
+      "team": "WSN",
+      "url": "/players/geraldi-diaz/sa3002635/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "sa3020540",
+      "name": "Hudson Livesey",
+      "position": "C",
+      "team": "WSN",
+      "url": "/players/hudson-livesey/sa3020540/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "",
+      "id": "22906",
+      "name": "Israel Pineda",
+      "position": "C",
+      "team": "WSN",
+      "url": "/players/israel-pineda/22906/stats?position=C"
+    },
+    {
+      "ba_position": "C",
+      "fg_team": "Mets",
+      "id": "sa3008007",
+      "name": "Onix Vega",
+      "position": "C",
+      "team": "WSN",
+      "url": "/players/onix-vega/sa3008007/stats?position=C"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "",
+      "id": "20926",
+      "name": "Dérmis Garcia",
+      "position": "1B",
+      "team": "WSN",
+      "url": "/players/dermis-garcia/20926/stats?position=1B"
+    },
+    {
+      "ba_position": "1B",
+      "fg_team": "Mets",
+      "id": "14366",
+      "name": "Joey Meneses",
+      "position": "1B/DH",
+      "team": "WSN",
+      "url": "/players/joey-meneses/14366/stats?position=1B/DH"
+    },
+    {
+      "ba_position": "3B",
+      "fg_team": "Angels",
+      "id": "19958",
+      "name": "Carter Kieboom",
+      "position": "3B",
+      "team": "WSN",
+      "url": "/players/carter-kieboom/19958/stats?position=3B"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "sa3006876",
+      "name": "Trey Harris",
+      "position": "OF",
+      "team": "WSN",
+      "url": "/players/terone-harris/sa3006876/stats?position=OF"
+    },
+    {
+      "ba_position": "OF",
+      "fg_team": "",
+      "id": "24671",
+      "name": "Cody Wilson",
+      "position": "PH/PR",
+      "team": "WSN",
+      "url": "/players/cody-wilson/24671/stats?position=PH/PR"
+    }
+  ]
+}

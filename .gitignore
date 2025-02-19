@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.nimbella
+.deployed
+__deployer__.zip
+
+node_modules
+package-lock.json
+.DS_Store
+
+.idea/**

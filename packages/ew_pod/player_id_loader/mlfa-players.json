@@ -1,0 +1,3224 @@
+[
+  {
+    "level": "AAA",
+    "player": "Dylan File",
+    "position": "RHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AA",
+    "player": "Cole Percival",
+    "position": "RHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Chris Rodriguez",
+    "position": "RHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Erich Uelmen",
+    "position": "RHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Logan Allen",
+    "position": "LHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Jose Castillo",
+    "position": "LHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Joe Jacques",
+    "position": "LHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Konnor Pilkington",
+    "position": "LHP",
+    "team": "ARI"
+  },
+  {
+    "level": "AA",
+    "player": "Lyle Lin",
+    "position": "C",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Perez",
+    "position": "C",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Andy Weber",
+    "position": "2B",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Sergio Alcantara",
+    "position": "SS",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Bryson Brigman",
+    "position": "SS",
+    "team": "ARI"
+  },
+  {
+    "level": "AA",
+    "player": "Jancarlos Cintron",
+    "position": "SS",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Albert Almora Jr.",
+    "position": "OF",
+    "team": "ARI"
+  },
+  {
+    "level": "AA",
+    "player": "Neyfy Castillo",
+    "position": "OF",
+    "team": "ARI"
+  },
+  {
+    "level": "AAA",
+    "player": "Kyle Garlick",
+    "position": "OF",
+    "team": "ARI"
+  },
+  {
+    "level": "AA",
+    "player": "Chase Cohen",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Danis Correa",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Robert Dugger",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AA",
+    "player": "Seth Elledge",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "A+",
+    "player": "Dylan Hall",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AA",
+    "player": "Lincoln Henzman",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Zach Jackson",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Janson Junk",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Gerson Moreno",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Austin Pruitt",
+    "position": "RHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Jack O’Loughlin",
+    "position": "LHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Francisco Perez",
+    "position": "LHP",
+    "team": "ATH"
+  },
+  {
+    "level": "AA",
+    "player": "Jose Mujica",
+    "position": "C",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Perez",
+    "position": "C",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Yohel Pozo",
+    "position": "C",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Armando Alvarez",
+    "position": "2B",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Hoy Park",
+    "position": "2B",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Jordan Diaz",
+    "position": "3B",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Drew Lugbauer",
+    "position": "3B",
+    "team": "ATH"
+  },
+  {
+    "level": "AA",
+    "player": "Jeremy Eierman",
+    "position": "SS",
+    "team": "ATH"
+  },
+  {
+    "level": "AA",
+    "player": "Jordan Groshans",
+    "position": "SS",
+    "team": "ATH"
+  },
+  {
+    "level": "A",
+    "player": "Dereck Salom",
+    "position": "SS",
+    "team": "ATH"
+  },
+  {
+    "level": "A+",
+    "player": "Danny Bautista",
+    "position": "OF",
+    "team": "ATH"
+  },
+  {
+    "level": "AA",
+    "player": "Jeisson Rosario",
+    "position": "OF",
+    "team": "ATH"
+  },
+  {
+    "level": "AAA",
+    "player": "Tommy Doyle",
+    "position": "RHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Parker Dunshee",
+    "position": "RHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Ken Giles",
+    "position": "RHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AA",
+    "player": "Jorge Juan",
+    "position": "RHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Jackson Stephens",
+    "position": "RHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Tyler Matzek",
+    "position": "LHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Brian Moran",
+    "position": "LHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AA",
+    "player": "Drew Parrish",
+    "position": "LHP",
+    "team": "ATL"
+  },
+  {
+    "level": "AA",
+    "player": "Sebastian Rivero",
+    "position": "C",
+    "team": "ATL"
+  },
+  {
+    "level": "A",
+    "player": "Willmer De La Cruz",
+    "position": "2B",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Brian Anderson",
+    "position": "3B",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Zack Short",
+    "position": "SS",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Andrew Velazquez",
+    "position": "SS",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Justin Dean",
+    "position": "OF",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "J.P. Martinez",
+    "position": "OF",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Harold Ramirez",
+    "position": "OF",
+    "team": "ATL"
+  },
+  {
+    "level": "AAA",
+    "player": "Nick Anderson",
+    "position": "RHP",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Nolan Hoffman",
+    "position": "RHP",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Adrian Houser",
+    "position": "RHP",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Matt Krook",
+    "position": "LHP",
+    "team": "BAL"
+  },
+  {
+    "level": "A+",
+    "player": "Cooper McKeehan",
+    "position": "LHP",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Nick Vespi",
+    "position": "LHP",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Bruce Zimmermann",
+    "position": "LHP",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Garrett Cooper",
+    "position": "1B",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Terrin Vavra",
+    "position": "2B",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "J.D. Davis",
+    "position": "3B",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Niko Goodrum",
+    "position": "SS",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Forrest Wall",
+    "position": "OF",
+    "team": "BAL"
+  },
+  {
+    "level": "AAA",
+    "player": "Jason Alexander",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "A",
+    "player": "Royman Blanco",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "AA",
+    "player": "Bryce Bonnin",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "AA",
+    "player": "Felix Cepeda",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Justin Hagenman",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Brad Keller",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Alex Speas",
+    "position": "RHP",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Mark Kolozsvary",
+    "position": "C",
+    "team": "BOS"
+  },
+  {
+    "level": "AA",
+    "player": "Elih Marrero",
+    "position": "C",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Bobby Dalbec",
+    "position": "3B",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Jamie Westbrook",
+    "position": "3B",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Mark Contreras",
+    "position": "OF",
+    "team": "BOS"
+  },
+  {
+    "level": "AA",
+    "player": "Nick Decker",
+    "position": "OF",
+    "team": "BOS"
+  },
+  {
+    "level": "AAA",
+    "player": "Dalton Guthrie",
+    "position": "OF",
+    "team": "BOS"
+  },
+  {
+    "level": "A+",
+    "player": "Luis Devers",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Jimmy Endersby",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Manuel Espinoza",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "A",
+    "player": "Saul Gonzalez",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Daniel Missaki",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Eduarniel Nunez",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Cameron Sanders",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Trey Supak",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Riley Thompson",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Blake Whitney",
+    "position": "RHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Lucas Luetge",
+    "position": "LHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Blake Weiman",
+    "position": "LHP",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Caleb Knight",
+    "position": "C",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "David Bote",
+    "position": "3B",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Reivaj Garcia",
+    "position": "SS",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Fabian Pertuz",
+    "position": "SS",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Luis Verdugo",
+    "position": "SS",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Ezequiel Pagan",
+    "position": "OF",
+    "team": "CHC"
+  },
+  {
+    "level": "AA",
+    "player": "Cole Roederer",
+    "position": "OF",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Trayce Thompson",
+    "position": "OF",
+    "team": "CHC"
+  },
+  {
+    "level": "AAA",
+    "player": "Cory Abbott",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Josimar Cousin",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Johan Dominguez",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Matt Foster",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Deivi Garcia",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "A",
+    "player": "Zach Hammer",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Travis Lakins",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Aaron McGarity",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Edgar Navarro",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Nicholas Padilla",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "A",
+    "player": "Connor Pellerin",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "A+",
+    "player": "Jose Ramirez",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Lane Ramsey",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Dalton Roach",
+    "position": "RHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AA",
+    "player": "Max Roberts",
+    "position": "LHP",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Jhoneiker Betancourt",
+    "position": "C",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Perez",
+    "position": "C",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Chavis",
+    "position": "1B",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Wilmer Difo",
+    "position": "SS",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Mark Payton",
+    "position": "OF",
+    "team": "CHW"
+  },
+  {
+    "level": "AAA",
+    "player": "Canaan Smith-Njigba",
+    "position": "OF",
+    "team": "CHW"
+  },
+  {
+    "level": "R",
+    "player": "Alex Blandino",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Byrne",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AA",
+    "player": "Eddy Demurias",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AA",
+    "player": "Grant Gavin",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "R",
+    "player": "Peyton Gray",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Connor Overton",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "A+",
+    "player": "Victor Vargas",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AA",
+    "player": "Patrick Weigel",
+    "position": "RHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AA",
+    "player": "Jacob Heatherly",
+    "position": "LHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Justus Sheffield",
+    "position": "LHP",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Tucker Barnhart",
+    "position": "C",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "P.J. Higgins",
+    "position": "C",
+    "team": "CIN"
+  },
+  {
+    "level": "AA",
+    "player": "Daniel Vellojin",
+    "position": "C",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Levi Jordan",
+    "position": "2B",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Mark Mathias",
+    "position": "2B",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Hernan Perez",
+    "position": "2B",
+    "team": "CIN"
+  },
+  {
+    "level": "AA",
+    "player": "Nicholas Northcut",
+    "position": "3B",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Edwin Rios",
+    "position": "3B",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Erik Gonzalez",
+    "position": "SS",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Bubba Thompson",
+    "position": "OF",
+    "team": "CIN"
+  },
+  {
+    "level": "AAA",
+    "player": "James Karinchak",
+    "position": "RHP",
+    "team": "CLE"
+  },
+  {
+    "level": "AA",
+    "player": "Jerson Ramirez",
+    "position": "RHP",
+    "team": "CLE"
+  },
+  {
+    "level": "AA",
+    "player": "Lenny Torres",
+    "position": "RHP",
+    "team": "CLE"
+  },
+  {
+    "level": "A",
+    "player": "Wardquelin Vasquez",
+    "position": "RHP",
+    "team": "CLE"
+  },
+  {
+    "level": "AAA",
+    "player": "Bryan Lavastida",
+    "position": "C",
+    "team": "CLE"
+  },
+  {
+    "level": "AAA",
+    "player": "Dom Nunez",
+    "position": "C",
+    "team": "CLE"
+  },
+  {
+    "level": "AAA",
+    "player": "Micael Ramirez",
+    "position": "C",
+    "team": "CLE"
+  },
+  {
+    "level": "AA",
+    "player": "Aaron Bracho",
+    "position": "SS",
+    "team": "CLE"
+  },
+  {
+    "level": "AAA",
+    "player": "Raynel Delgado",
+    "position": "SS",
+    "team": "CLE"
+  },
+  {
+    "level": "AA",
+    "player": "Alexfri Planez",
+    "position": "OF",
+    "team": "CLE"
+  },
+  {
+    "level": "AAA",
+    "player": "Chance Adams",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "A+",
+    "player": "Luis Amoroso",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Peyton Battenfield",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Noah Davis",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "AA",
+    "player": "Brendan Hardy",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Riley Pint",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "AA",
+    "player": "Connor Van Scoyoc",
+    "position": "RHP",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Juan Hillman",
+    "position": "LHP",
+    "team": "COL"
+  },
+  {
+    "level": "A+",
+    "player": "Felix Ramires",
+    "position": "LHP",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Willie MacIver",
+    "position": "C",
+    "team": "COL"
+  },
+  {
+    "level": "AA",
+    "player": "Kyle Datres",
+    "position": "1B",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Grant Lavigne",
+    "position": "1B",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Hunter Stovall",
+    "position": "2B",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Elehuris Montero",
+    "position": "3B",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Connor Kaiser",
+    "position": "SS",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Cristopher Navarro",
+    "position": "SS",
+    "team": "COL"
+  },
+  {
+    "level": "R",
+    "player": "Niko Decolati",
+    "position": "OF",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Jameson Hannah",
+    "position": "OF",
+    "team": "COL"
+  },
+  {
+    "level": "AAA",
+    "player": "Jimmy Herron",
+    "position": "OF",
+    "team": "COL"
+  },
+  {
+    "level": "AA",
+    "player": "Bladimir Restituyo",
+    "position": "OF",
+    "team": "COL"
+  },
+  {
+    "level": "AA",
+    "player": "Calvin Coker",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Miguel Diaz",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "DSL",
+    "player": "Snarlyn Evangelista",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Wilkel Hernandez",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Garrett Hill",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Tim Naughton",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Joel Peguero",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "A+",
+    "player": "Erick Pinales",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Angel Reyes",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "DSL",
+    "player": "Angel Sanchez",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Austin Schulfer",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Troy Watson",
+    "position": "RHP",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Jake Higginbotham",
+    "position": "LHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Bryan Sammons",
+    "position": "LHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Andrew Vasquez",
+    "position": "LHP",
+    "team": "DET"
+  },
+  {
+    "level": "DSL",
+    "player": "Gerard Veloz",
+    "position": "LHP",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Adam Wolf",
+    "position": "LHP",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Anthony Bemboom",
+    "position": "C",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Tomas Nido",
+    "position": "C",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Julio Rodriguez",
+    "position": "C",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Drew Maggi",
+    "position": "2B",
+    "team": "DET"
+  },
+  {
+    "level": "AA",
+    "player": "Luis Santana",
+    "position": "2B",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Bligh Madris",
+    "position": "OF",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Oscar Mercado",
+    "position": "OF",
+    "team": "DET"
+  },
+  {
+    "level": "AAA",
+    "player": "Ryan Vilade",
+    "position": "OF",
+    "team": "DET"
+  },
+  {
+    "level": "A+",
+    "player": "Franny Cobos",
+    "position": "RHP",
+    "team": "HOU"
+  },
+  {
+    "level": "AAA",
+    "player": "Conner Greene",
+    "position": "RHP",
+    "team": "HOU"
+  },
+  {
+    "level": "AA",
+    "player": "Layne Henderson",
+    "position": "RHP",
+    "team": "HOU"
+  },
+  {
+    "level": "AA",
+    "player": "Jeremy Molero",
+    "position": "RHP",
+    "team": "HOU"
+  },
+  {
+    "level": "AAA",
+    "player": "Parker Mushinski",
+    "position": "LHP",
+    "team": "HOU"
+  },
+  {
+    "level": "AA",
+    "player": "Julio Robaina",
+    "position": "LHP",
+    "team": "HOU"
+  },
+  {
+    "level": "AAA",
+    "player": "Omar Narvaez",
+    "position": "C",
+    "team": "HOU"
+  },
+  {
+    "level": "AAA",
+    "player": "Chris Gittens",
+    "position": "1B",
+    "team": "HOU"
+  },
+  {
+    "level": "AA",
+    "player": "Rolando Espinosa",
+    "position": "SS",
+    "team": "HOU"
+  },
+  {
+    "level": "AA",
+    "player": "Ricky Karcher",
+    "position": "RHP",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Dinelson Lamet",
+    "position": "RHP",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Austin Cox",
+    "position": "LHP",
+    "team": "KCR"
+  },
+  {
+    "level": "AA",
+    "player": "Rylan Kaufman",
+    "position": "LHP",
+    "team": "KCR"
+  },
+  {
+    "level": "AA",
+    "player": "Keylan Killgore",
+    "position": "LHP",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Rodolfo Duran",
+    "position": "C",
+    "team": "KCR"
+  },
+  {
+    "level": "R",
+    "player": "Enmanuel Pire",
+    "position": "C",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Ryan Fitzgerald",
+    "position": "2B",
+    "team": "KCR"
+  },
+  {
+    "level": "AA",
+    "player": "Josh Lester",
+    "position": "3B",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Devin Mann",
+    "position": "3B",
+    "team": "KCR"
+  },
+  {
+    "level": "AA",
+    "player": "Leonel Valera",
+    "position": "SS",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Nathan Eaton",
+    "position": "OF",
+    "team": "KCR"
+  },
+  {
+    "level": "AA",
+    "player": "Diego Hernandez",
+    "position": "OF",
+    "team": "KCR"
+  },
+  {
+    "level": "AAA",
+    "player": "Ivan Armstrong",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "R",
+    "player": "Ruben Castillo",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AA",
+    "player": "Chase Chaney",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Adam Cimber",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Tayron Guerrero",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Luis Ledo",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Travis MacGregor",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jose Marte",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "John O’Reilly",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Andrew Wantz",
+    "position": "RHP",
+    "team": "LAA"
+  },
+  {
+    "level": "AA",
+    "player": "Tyler Payne",
+    "position": "C",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Chad Wallach",
+    "position": "C",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Stefanic",
+    "position": "2B",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Shane Matheny",
+    "position": "3B",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jack Lopez",
+    "position": "SS",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Elliot Soto",
+    "position": "SS",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jake Marisnick",
+    "position": "OF",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jason Martin",
+    "position": "OF",
+    "team": "LAA"
+  },
+  {
+    "level": "AAA",
+    "player": "Orlando Martinez",
+    "position": "OF",
+    "team": "LAA"
+  },
+  {
+    "level": "A",
+    "player": "Imanol Vargas",
+    "position": "OF",
+    "team": "LAA"
+  },
+  {
+    "level": "A+",
+    "player": "Jeisson Cabrera",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Tanner Dodson",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Jon Duplantier",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Kevin Gowdy",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Sauryn Lao",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Jordan Lyles",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AA",
+    "player": "Michael Martinez",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AA",
+    "player": "Juan Morillo",
+    "position": "RHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AA",
+    "player": "Jorge Benitez",
+    "position": "LHP",
+    "team": "LAD"
+  },
+  {
+    "level": "A+",
+    "player": "Franklin De La Paz",
+    "position": "LHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "John Rooney",
+    "position": "LHP",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Chris Okey",
+    "position": "C",
+    "team": "LAD"
+  },
+  {
+    "level": "AA",
+    "player": "Brendon Davis",
+    "position": "3B",
+    "team": "LAD"
+  },
+  {
+    "level": "AA",
+    "player": "Cristian Santana",
+    "position": "SS",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Alan Trejo",
+    "position": "SS",
+    "team": "LAD"
+  },
+  {
+    "level": "AAA",
+    "player": "Drew Avans",
+    "position": "OF",
+    "team": "LAD"
+  },
+  {
+    "level": "AA",
+    "player": "Donovan Casey",
+    "position": "OF",
+    "team": "LAD"
+  },
+  {
+    "level": "A+",
+    "player": "Delvis Alegre",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Elvis Alvarado",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Shaun Anderson",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AA",
+    "player": "Justin Evans",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "A+",
+    "player": "Yeuris Jimenez",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Angel Macuare",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AA",
+    "player": "Robinson Martinez",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "A+",
+    "player": "Edgar Sanchez",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Sixto Sanchez",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Raffi Vizcaino",
+    "position": "RHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Luis Palacios",
+    "position": "LHP",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Will Banfield",
+    "position": "C",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "David Hensley",
+    "position": "SS",
+    "team": "MIA"
+  },
+  {
+    "level": "AAA",
+    "player": "Diego Infante",
+    "position": "OF",
+    "team": "MIA"
+  },
+  {
+    "level": "AA",
+    "player": "Sam Carlson",
+    "position": "RHP",
+    "team": "MIL"
+  },
+  {
+    "level": "AA",
+    "player": "Harold Chirino",
+    "position": "RHP",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Bryse Wilson",
+    "position": "RHP",
+    "team": "MIL"
+  },
+  {
+    "level": "A+",
+    "player": "Jesus Chirinos",
+    "position": "C",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Francisco Mejia",
+    "position": "C",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Brian Navarreto",
+    "position": "C",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Andrew Yerzy",
+    "position": "C",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Jake Bauers",
+    "position": "1B",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Patrick Dorrian",
+    "position": "1B",
+    "team": "MIL"
+  },
+  {
+    "level": "A+",
+    "player": "Jose Acosta",
+    "position": "2B",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Christian Arroyo",
+    "position": "3B",
+    "team": "MIL"
+  },
+  {
+    "level": "AA",
+    "player": "Felix Valerio",
+    "position": "SS",
+    "team": "MIL"
+  },
+  {
+    "level": "A",
+    "player": "Reidy Mercado",
+    "position": "OF",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Rodriguez",
+    "position": "OF",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Chris Roller",
+    "position": "OF",
+    "team": "MIL"
+  },
+  {
+    "level": "AA",
+    "player": "Connor Scott",
+    "position": "OF",
+    "team": "MIL"
+  },
+  {
+    "level": "AA",
+    "player": "Lamar Sparks",
+    "position": "OF",
+    "team": "MIL"
+  },
+  {
+    "level": "AAA",
+    "player": "Scott Blewett",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Jeff Brigham",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Giovanny Gallegos",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AA",
+    "player": "Regi Grace",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Hobie Harris",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "A",
+    "player": "Danny Moreno",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Adam Plutko",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AA",
+    "player": "Miguel Rodriguez",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Zack Weiss",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Josh Winder",
+    "position": "RHP",
+    "team": "MIN"
+  },
+  {
+    "level": "A+",
+    "player": "Rafael Marcano",
+    "position": "LHP",
+    "team": "MIN"
+  },
+  {
+    "level": "A+",
+    "player": "Gabriel Yanez",
+    "position": "LHP",
+    "team": "MIN"
+  },
+  {
+    "level": "A",
+    "player": "Wilfri Castro",
+    "position": "C",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Chris Williams",
+    "position": "C",
+    "team": "MIN"
+  },
+  {
+    "level": "A+",
+    "player": "Rixon Taylor-Wingrove",
+    "position": "1B",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Rylan Bannon",
+    "position": "3B",
+    "team": "MIN"
+  },
+  {
+    "level": "AAA",
+    "player": "Yunior Severino",
+    "position": "3B",
+    "team": "MIN"
+  },
+  {
+    "level": "A",
+    "player": "Carlos Aguiar",
+    "position": "OF",
+    "team": "MIN"
+  },
+  {
+    "level": "A+",
+    "player": "Agustin Ruiz",
+    "position": "OF",
+    "team": "MIN"
+  },
+  {
+    "level": "A+",
+    "player": "Robert Colina",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Kyle Crick",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Guzman",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Justin Jarvis",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Brian Metoyer",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "A+",
+    "player": "Alan Perdomo",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Wilkin Ramos",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Cam Robinson",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Junior Santos",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Andre Scrubb",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Jordany Ventura",
+    "position": "RHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Matt Gage",
+    "position": "LHP",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Austin Allen",
+    "position": "C",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Logan Porter",
+    "position": "C",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Yolmer Sanchez",
+    "position": "2B",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Mike Brosseau",
+    "position": "3B",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Jeremiah Jackson",
+    "position": "3B",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Jose Peroza",
+    "position": "3B",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Mateo Gil",
+    "position": "SS",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Jaylen Palmer",
+    "position": "SS",
+    "team": "NYM"
+  },
+  {
+    "level": "AA",
+    "player": "Stanley Consuegra",
+    "position": "OF",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Cortes",
+    "position": "OF",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "D.J. Stewart",
+    "position": "OF",
+    "team": "NYM"
+  },
+  {
+    "level": "AAA",
+    "player": "Joey Gerber",
+    "position": "RHP",
+    "team": "NYY"
+  },
+  {
+    "level": "AA",
+    "player": "Jesus Liranzo",
+    "position": "RHP",
+    "team": "NYY"
+  },
+  {
+    "level": "AA",
+    "player": "Anderson Munoz",
+    "position": "RHP",
+    "team": "NYY"
+  },
+  {
+    "level": "AA",
+    "player": "Matt Sauer",
+    "position": "RHP",
+    "team": "NYY"
+  },
+  {
+    "level": "AAA",
+    "player": "Thomas Pannone",
+    "position": "LHP",
+    "team": "NYY"
+  },
+  {
+    "level": "AA",
+    "player": "Juan Crisp",
+    "position": "C",
+    "team": "NYY"
+  },
+  {
+    "level": "AA",
+    "player": "Anthony Seigler",
+    "position": "C",
+    "team": "NYY"
+  },
+  {
+    "level": "AAA",
+    "player": "Jahmai Jones",
+    "position": "2B",
+    "team": "NYY"
+  },
+  {
+    "level": "AA",
+    "player": "Max Burt",
+    "position": "3B",
+    "team": "NYY"
+  },
+  {
+    "level": "AAA",
+    "player": "Greg Allen",
+    "position": "OF",
+    "team": "NYY"
+  },
+  {
+    "level": "AAA",
+    "player": "Oscar Gonzalez",
+    "position": "OF",
+    "team": "NYY"
+  },
+  {
+    "level": "A",
+    "player": "Brett Phillips",
+    "position": "OF",
+    "team": "NYY"
+  },
+  {
+    "level": "AAA",
+    "player": "Zach Haake",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AA",
+    "player": "Cristian Hernandez",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Yunior Marte",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Tyler McKay",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Luis Ortiz",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Robinson Pina",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AA",
+    "player": "Dominic Pipkin",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Nick Snyder",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Freddy Tarnok",
+    "position": "RHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Kolby Allard",
+    "position": "LHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AA",
+    "player": "Jordi Martinez",
+    "position": "LHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AA",
+    "player": "Lachlan Wells",
+    "position": "LHP",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Cody Roberts",
+    "position": "C",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Darick Hall",
+    "position": "1B",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Jim Haley",
+    "position": "3B",
+    "team": "PHI"
+  },
+  {
+    "level": "AA",
+    "player": "Kendall Simmons",
+    "position": "3B",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Rodolfo Castro",
+    "position": "SS",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "David Dahl",
+    "position": "OF",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos De La Cruz",
+    "position": "OF",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Jordan Luplow",
+    "position": "OF",
+    "team": "PHI"
+  },
+  {
+    "level": "AAA",
+    "player": "Ryan McKenna",
+    "position": "OF",
+    "team": "PHI"
+  },
+  {
+    "level": "AA",
+    "player": "Brad Case",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Luis Cessa",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Ben Heller",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Daulton Jefferies",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Jose Maldonado",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Isaac Mattson",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AA",
+    "player": "Cristofer Melendez",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Connor Sadzeck",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Aaron Shortridge",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Beau Sulser",
+    "position": "RHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Brady Feigl",
+    "position": "LHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Geronimo Franzua",
+    "position": "LHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Plassmeyer",
+    "position": "LHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AA",
+    "player": "Blake Townsend",
+    "position": "LHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Josh Walker",
+    "position": "LHP",
+    "team": "PIT"
+  },
+  {
+    "level": "AA",
+    "player": "Abrahan Gutierrez",
+    "position": "C",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Grant Koch",
+    "position": "C",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Seth Beer",
+    "position": "1B",
+    "team": "PIT"
+  },
+  {
+    "level": "AA",
+    "player": "Francisco Acuna",
+    "position": "SS",
+    "team": "PIT"
+  },
+  {
+    "level": "AA",
+    "player": "Yoyner Fajardo",
+    "position": "OF",
+    "team": "PIT"
+  },
+  {
+    "level": "A+",
+    "player": "PJ Hilson",
+    "position": "OF",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Jake Lamb",
+    "position": "OF",
+    "team": "PIT"
+  },
+  {
+    "level": "AAA",
+    "player": "Arquimedes Gamboa",
+    "position": "SS",
+    "team": "STL"
+  },
+  {
+    "level": "AAA",
+    "player": "Drew Carlton",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Nabil Crismatt",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Yovanny Cruz",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Carl Edwards Jr.",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Reiss Knehr",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Reggie Lawson",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Seth Mayberry",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Robert Milacki",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Gabe Mosser",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Josh Roberson",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Nolan Watson",
+    "position": "RHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Daniel Camarena",
+    "position": "LHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Ryan Carpenter",
+    "position": "LHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Austin Davis",
+    "position": "LHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Paul Fry",
+    "position": "LHP",
+    "team": "SDP"
+  },
+  {
+    "level": "A+",
+    "player": "Jesus Gonzalez",
+    "position": "LHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Jayvien Sandridge",
+    "position": "LHP",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Michael De La Cruz",
+    "position": "C",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Kevin Plawecki",
+    "position": "C",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Chandler Seagle",
+    "position": "C",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Juan Zabala",
+    "position": "C",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Nate Mondou",
+    "position": "2B",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Robbie Tenerowicz",
+    "position": "2B",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Matthew Batten",
+    "position": "3B",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Ray-Patrick Didder",
+    "position": "OF",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Connor Hollis",
+    "position": "OF",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Tim Locastro",
+    "position": "OF",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Cal Mitchell",
+    "position": "OF",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Robert Perez",
+    "position": "OF",
+    "team": "SDP"
+  },
+  {
+    "level": "AA",
+    "player": "Zach Reks",
+    "position": "OF",
+    "team": "SDP"
+  },
+  {
+    "level": "AAA",
+    "player": "Blayne Enlow",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Matt Frisbee",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Clay Helvey",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Spencer Howard",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Tanner Kiest",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Blake Rivera",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Tommy Romero",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Drew Strotman",
+    "position": "RHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Raymond Burgos",
+    "position": "LHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Seth Corry",
+    "position": "LHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Kolton Ingram",
+    "position": "LHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Thomas Szapucki",
+    "position": "LHP",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Luis Toribio",
+    "position": "3B",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Donnie Walton",
+    "position": "3B",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Trenton Brooks",
+    "position": "OF",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Allan Cerda",
+    "position": "OF",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Yusniel Diaz",
+    "position": "OF",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Ismael Munguia",
+    "position": "OF",
+    "team": "SFG"
+  },
+  {
+    "level": "AAA",
+    "player": "Chase Pinder",
+    "position": "OF",
+    "team": "SFG"
+  },
+  {
+    "level": "AA",
+    "player": "Luis Curvelo",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "DSL",
+    "player": "Alisson Del Orbe",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "DSL",
+    "player": "Olivier Gomez",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Logan Gragg",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Jake Haberer",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jesse Hahn",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "A+",
+    "player": "Joseph Hernandez",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jordan Holloway",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Trevor Kelley",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Joey Krehbiel",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Casey Lawrence",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Mariot",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Juan Mercedes",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Hansel Robles",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "A",
+    "player": "Yeury Tatiz",
+    "position": "RHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Raul Alcantara",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Garrett Davila",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Josh Fleming",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Rob Kaminsky",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "A+",
+    "player": "Holden Laws",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "A",
+    "player": "Brayan Perez",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "DSL",
+    "player": "Fernando Silvera",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "A+",
+    "player": "CJ Widger",
+    "position": "LHP",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Jake Anchia",
+    "position": "C",
+    "team": "SEA"
+  },
+  {
+    "level": "A+",
+    "player": "Freuddy Batista",
+    "position": "C",
+    "team": "SEA"
+  },
+  {
+    "level": "A",
+    "player": "Junior Gonzalez",
+    "position": "C",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Papierski",
+    "position": "C",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Beau Taylor",
+    "position": "C",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Kobe Kato",
+    "position": "2B",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Jake Slaughter",
+    "position": "2B",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Logan Warmoth",
+    "position": "SS",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Jared Oliva",
+    "position": "OF",
+    "team": "SEA"
+  },
+  {
+    "level": "AA",
+    "player": "Alberto Rodriguez",
+    "position": "OF",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Nick Solak",
+    "position": "OF",
+    "team": "SEA"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Garcia",
+    "position": "RHP",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Gomez",
+    "position": "RHP",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Joel Kuhnel",
+    "position": "RHP",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Joe Record",
+    "position": "RHP",
+    "team": "TBR"
+  },
+  {
+    "level": "AA",
+    "player": "Antonio Jimenez",
+    "position": "LHP",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Brendan McKay",
+    "position": "LHP",
+    "team": "TBR"
+  },
+  {
+    "level": "AA",
+    "player": "Ricardo Genoves",
+    "position": "C",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Ronny Simon",
+    "position": "2B",
+    "team": "TBR"
+  },
+  {
+    "level": "A+",
+    "player": "Gionti Turner",
+    "position": "2B",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "C.J. Hinojosa",
+    "position": "SS",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Heriberto Hernandez",
+    "position": "OF",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Nick Schnell",
+    "position": "OF",
+    "team": "TBR"
+  },
+  {
+    "level": "AAA",
+    "player": "Kyle Barraclough",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Tim Brennan",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Shane Greene",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "A+",
+    "player": "Damian Mendoza",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Adrian Sampson",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Peter Solomon",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Tyler Zombro",
+    "position": "RHP",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Grant Wolfram",
+    "position": "LHP",
+    "team": "TEX"
+  },
+  {
+    "level": "A",
+    "player": "Jesus Moreno",
+    "position": "C",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Matthew Whatley",
+    "position": "C",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Alex De Goti",
+    "position": "3B",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Jax Biggers",
+    "position": "SS",
+    "team": "TEX"
+  },
+  {
+    "level": "AAA",
+    "player": "Jose Garcia",
+    "position": "SS",
+    "team": "TEX"
+  },
+  {
+    "level": "AA",
+    "player": "Luis Mieses",
+    "position": "OF",
+    "team": "TEX"
+  },
+  {
+    "level": "A+",
+    "player": "DJ Peters",
+    "position": "OF",
+    "team": "TEX"
+  },
+  {
+    "level": "AA",
+    "player": "Andrew Bechtold",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "R",
+    "player": "Evan Elliott",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "A",
+    "player": "Sebastian Espino",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Braydon Fisher",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Luis Frias",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AA",
+    "player": "Adrian Hernandez",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "James Kaprielian",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AA",
+    "player": "Abdiel Mendoza",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Eric Pardinho",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Yerry Rodriguez",
+    "position": "RHP",
+    "team": "TOR"
+  },
+  {
+    "level": "A",
+    "player": "Jose Ferrer",
+    "position": "C",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Payton Henry",
+    "position": "C",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Max McDowell",
+    "position": "C",
+    "team": "TOR"
+  },
+  {
+    "level": "A+",
+    "player": "Jamari Baylor",
+    "position": "1B",
+    "team": "TOR"
+  },
+  {
+    "level": "AAA",
+    "player": "Rafael Lantigua",
+    "position": "2B",
+    "team": "TOR"
+  },
+  {
+    "level": "A+",
+    "player": "Mason Denaburg",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "A+",
+    "player": "Moises Diaz",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Rico Garcia",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Richard Guasch",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Adonis Medina",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "R",
+    "player": "Aldo Ramirez",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Samuel Reyes",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Carlos Romero",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Michael Rucker",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Reid Schaller",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Rodney Theophile",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Ty Tice",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Nash Walters",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Spenser Watkins",
+    "position": "RHP",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Tim Cate",
+    "position": "LHP",
+    "team": "WSN"
+  },
+  {
+    "level": "R",
+    "player": "Will Sandy",
+    "position": "LHP",
+    "team": "WSN"
+  },
+  {
+    "level": "A+",
+    "player": "Geraldi Diaz",
+    "position": "C",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Hudson Livesey",
+    "position": "C",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Israel Pineda",
+    "position": "C",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Onix Vega",
+    "position": "C",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Dermis Garcia",
+    "position": "1B",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Joey Meneses",
+    "position": "1B",
+    "team": "WSN"
+  },
+  {
+    "level": "AAA",
+    "player": "Carter Kieboom",
+    "position": "3B",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Trey Harris",
+    "position": "OF",
+    "team": "WSN"
+  },
+  {
+    "level": "AA",
+    "player": "Cody Wilson",
+    "position": "OF",
+    "team": "WSN"
+  }
+]

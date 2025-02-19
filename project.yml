@@ -1,0 +1,45 @@
+parameters: { }
+environment: { }
+packages:
+  - name: ew_pod
+    shared: false
+    environment: { }
+    parameters: { }
+    annotations: { }
+    functions:
+      - name: ba_player_loader
+        binary: false
+        main: ""
+        runtime: python:3.11
+        web: true
+        webSecure: false
+        parameters: { }
+        environment: { }
+        annotations: { }
+        limits:
+          timeout: 30000 # 30 seconds
+      - name: player_id_loader
+        binary: false
+        main: ""
+        runtime: python:3.11
+        web: true
+        webSecure: false
+        parameters: { }
+        environment:
+          FG_SEARCH_TOKEN: "${FG_SEARCH_TOKEN}"
+          FG_SEARCH_URL: "${FG_SEARCH_URL}"
+        annotations: { }
+        limits:
+          timeout: 600000 # ten minutes
+          memory: 512 # 512MB
+      - name: fgdc_stats_loader
+        binary: false
+        main: ""
+        runtime: python:3.11
+        web: true
+        webSecure: false
+        parameters: { }
+        annotations: { }
+        limits:
+          timeout: 900000 # fifteen minutes
+          memory: 512 # 512MB
