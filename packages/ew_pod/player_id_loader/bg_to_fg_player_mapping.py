@@ -24,12 +24,12 @@ ba_to_fg_name_mapping = {
     'Luis Curvello': 'Luis Curvelo',
     'Jose Garcia': 'Jose Barrero',
     'Sebastian Rivero': 'Sebastián  Rivero',
-    'Luis Ortiz': 'Luis F. Ortiz'
+    'Luis Ortiz': 'Luis F. Ortiz',
+    'Carlos Rodriguez': 'Carlos D. Rodriguez'
 }
 
 ba_to_fg_position_mapping = {
     'Brian Anderson': '3B/OF',
-    'Carlos Cortes': '2B/OF',
     'Cristian Santana': '3B',
     'Harold Ramirez': 'DH/OF',
     'Jose Garcia': 'SS',

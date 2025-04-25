@@ -69,7 +69,6 @@ def handle_carlos_perez(filtered_players, player_name, player_team):
 def get_player_with_id(headers, player_name, player_team, player_position):
     try:
         player_name = ba_to_fg_name_mapping[player_name] if player_name in ba_to_fg_name_mapping else player_name
-        print(player_name)
         body = get_request_body(unidecode(player_name))
 
         response = requests.post(
@@ -102,14 +101,17 @@ def get_player_with_id(headers, player_name, player_team, player_position):
                 return None
 
             searched_player = filtered_players[0]
+            player_id = searched_player['id']['raw']
 
             return {
-                "id": searched_player['id']['raw'],
+                "year": os.environ.get('EW_GAME_YEAR'),
+                "fgId": player_id,
+                "saId": player_id if player_id.startswith('sa') else None,
                 "name": searched_player['name']['raw'].replace("  ", " "),
-                "team": player_team,
-                "fg_team": searched_player['team']['raw'],
-                "ba_position": player_position,
-                "position": searched_player['position']['raw'],
+                "baTeam": player_team,
+                "fgTeam": searched_player['team']['raw'],
+                "baPosition": player_position,
+                "fgPosition": searched_player['position']['raw'],
                 "url": searched_player['url']['raw']
             }
         else:

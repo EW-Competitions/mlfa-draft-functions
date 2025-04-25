@@ -1,11 +1,20 @@
+import os
 
-import json
+import requests
 
-file_name = 'fg_player_id_do.json'
+game_year = os.environ.get('EW_GAME_YEAR')
+api_url = os.environ.get('EW_API_URL')
+
+endpoint = f'{api_url}/mlfad/player/for-year/{game_year}/'
 
 def load_fg_players():
-    """
-    This will eventually load players from a DB.
-    For now, it comes from a JSON file.
-    """
-    return json.load(open(file_name, "r", encoding="utf-8"))['players']
+    print(f'Loading players from {endpoint}')
+    response = requests.get(endpoint)
+
+    if response.status_code == 200:
+        players = response.json()
+        print(f"Loaded {len(players)} players.")
+        return players
+    else:
+        print(f"Failed to load players: {response.status_code} - {response.text}")
+        return []

@@ -14,7 +14,9 @@ packages:
         web: true
         webSecure: false
         parameters: { }
-        environment: { }
+        environment:
+          EW_API_URL: "${EW_API_URL}"
+          EW_GAME_YEAR: "${EW_GAME_YEAR}"
         annotations: { }
         limits:
           timeout: 30000 # 30 seconds
@@ -26,6 +28,8 @@ packages:
         webSecure: false
         parameters: { }
         environment:
+          EW_API_URL: "${EW_API_URL}"
+          EW_GAME_YEAR: "${EW_GAME_YEAR}"
           FG_SEARCH_TOKEN: "${FG_SEARCH_TOKEN}"
           FG_SEARCH_URL: "${FG_SEARCH_URL}"
         annotations: { }
@@ -39,6 +43,9 @@ packages:
         web: true
         webSecure: false
         parameters: { }
+        environment:
+          EW_API_URL: "${EW_API_URL}"
+          EW_GAME_YEAR: "${EW_GAME_YEAR}"
         annotations: { }
         limits:
           timeout: 900000 # fifteen minutes

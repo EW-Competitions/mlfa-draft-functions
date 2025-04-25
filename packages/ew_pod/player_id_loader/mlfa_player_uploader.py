@@ -5,7 +5,7 @@ import requests
 game_year = os.environ.get('EW_GAME_YEAR')
 api_url = os.environ.get('EW_API_URL')
 
-endpoint = f'{api_url}/mlfad/ba-player/for-year/{game_year}/'
+endpoint = f'{api_url}/mlfad/player/for-year/{game_year}/bulk'
 
 def upload_players(players):
     response = requests.post(endpoint, json=players)
