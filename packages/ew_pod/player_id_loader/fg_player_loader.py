@@ -5,6 +5,7 @@ import requests
 from unidecode import unidecode
 
 from bg_to_fg_player_mapping import ba_to_fg_position_mapping, ba_to_fg_name_mapping, ba_to_fg_birthdate_mapping
+from team_mapping import fg_mlb_team_to_team_id
 
 url = os.environ.get('FG_SEARCH_URL')
 
@@ -50,12 +51,18 @@ def get_request_body(query_string):
         }
     })
 
+
 def map_position(position, player_name):
     if position == 'LHP' or position == 'RHP':
         return 'P'
     if player_name in ba_to_fg_position_mapping:
         return ba_to_fg_position_mapping[player_name]
     return position
+
+
+def map_fangraphs_teams(raw_team: str):
+    return fg_mlb_team_to_team_id.get(raw_team, raw_team)
+
 
 def handle_carlos_perez(filtered_players, player_name, player_team):
     # There are two Carlos Perez's, they're brothers and are both catchers
@@ -109,7 +116,7 @@ def get_player_with_id(headers, player_name, player_team, player_position):
                 "saId": player_id if player_id.startswith('sa') else None,
                 "name": searched_player['name']['raw'].replace("  ", " "),
                 "baTeam": player_team,
-                "fgTeam": searched_player['team']['raw'],
+                "fgTeam": map_fangraphs_teams(searched_player['team']['raw']),
                 "baPosition": player_position,
                 "fgPosition": searched_player['position']['raw'],
                 "url": searched_player['url']['raw']
@@ -120,6 +127,7 @@ def get_player_with_id(headers, player_name, player_team, player_position):
     except Exception as e:
         print(f"Error searching for {player_name}: {e}")
         return None
+
 
 def load_players_with_ids(players):
     print('this will load players with their FG IDs')

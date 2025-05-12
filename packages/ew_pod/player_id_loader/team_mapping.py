@@ -30,3 +30,36 @@ mlb_teams = {
     "TOR": "Toronto Blue Jays",
     "WSN": "Washington Nationals"
 }
+
+fg_mlb_team_to_team_id = {
+    "Diamondbacks": "ARI",
+    "Athletics": "ATH",
+    "Braves": "ATL",
+    "Orioles": "BAL",
+    "Red Sox": "BOS",
+    "Cubs": "CHC",
+    "White Sox": "CHW",
+    "Reds": "CIN",
+    "Guardians": "CLE",
+    "Rockies": "COL",
+    "Tigers": "DET",
+    "Astros": "HOU",
+    "Royals": "KCR",
+    "Angels": "LAA",
+    "Dodgers": "LAD",
+    "Marlins": "MIA",
+    "Brewers": "MIL",
+    "Twins": "MIN",
+    "Mets": "NYM",
+    "Yankees": "NYY",
+    "Phillies": "PHI",
+    "Pirates": "PIT",
+    "Padres": "SDP",
+    "Giants": "SFG",
+    "Mariners": "SEA",
+    "Cardinals": "STL",
+    "Rays": "TBR",
+    "Rangers": "TEX",
+    "Blue Jays": "TOR",
+    "Nationals": "WSN"
+}

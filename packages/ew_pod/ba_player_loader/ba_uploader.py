@@ -8,6 +8,7 @@ api_url = os.environ.get('EW_API_URL')
 endpoint = f'{api_url}/mlfad/ba-player/for-year/{game_year}/'
 
 def upload_players(players):
+    print(f'Uploading {len(players)} players to {endpoint}')
     response = requests.post(endpoint, json=players)
 
     if response.status_code == 200:
