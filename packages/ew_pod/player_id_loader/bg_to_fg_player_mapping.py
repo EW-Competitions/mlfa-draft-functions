@@ -25,7 +25,6 @@ ba_to_fg_name_mapping = {
     'Jose Garcia': 'Jose Barrero',
     'Sebastian Rivero': 'Sebastián  Rivero',
     'Luis Ortiz': 'Luis F. Ortiz',
-    'Carlos Rodriguez': 'Carlos D. Rodriguez'
 }
 
 ba_to_fg_position_mapping = {
@@ -63,6 +62,7 @@ ba_to_fg_birthdate_mapping = {
     'Jose Castillo': '1996-01-10',
     'Jose Ramirez': '2001-03-28',
     'Angel Sanchez': '2002-12-20',
-    'Carlos Garcia': '1998-11-28'
+    'Carlos Garcia': '1998-11-28',
+    'Carlos Rodriguez': '2000-12-07',
 
 }

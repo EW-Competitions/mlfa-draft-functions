@@ -54,7 +54,9 @@ def get_player_stats(player: Player) -> dict:
 
     standard_table = soup_page.select_one('div#standard table')
     mlb_rows = standard_table.select('tr.row-mlb-season')
-    projection_rows = standard_table.select('tr.row-projection')
+    projection_rows = standard_table.select('tr.row-projection-in-season')
+    if not projection_rows:
+        projection_rows = standard_table.select('tr.row-projection')
 
     stats = {}
 
